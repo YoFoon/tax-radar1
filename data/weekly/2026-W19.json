@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-05T10:23:39.545073+08:00",
-  "count": 58,
+  "updated_at": "2026-05-05T19:14:13.576881+08:00",
+  "count": 59,
   "topics": [
     {
       "id": "8d591cae7ede",
@@ -10,8 +10,8 @@
       "platform_class": "platform-bilibili",
       "author": "鹿头军师",
       "url": "http://www.bilibili.com/video/av113895251451685",
-      "time": "2026-05-05 10:23",
-      "heat": 292218,
+      "time": "2026-05-05 19:14",
+      "heat": 292242,
       "discussions": "2451",
       "tags": [],
       "isHot": true,
@@ -25,9 +25,9 @@
       "platform_class": "platform-bilibili",
       "author": "温竣岩",
       "url": "http://www.bilibili.com/video/av116067766638189",
-      "time": "2026-05-05 10:23",
-      "heat": 253643,
-      "discussions": "5479",
+      "time": "2026-05-05 19:14",
+      "heat": 253838,
+      "discussions": "5483",
       "tags": [
         "税收",
         "税制",
@@ -44,9 +44,9 @@
       "platform_class": "platform-bilibili",
       "author": "分析师Boden",
       "url": "http://www.bilibili.com/video/av113251106948861",
-      "time": "2026-05-05 10:23",
-      "heat": 196228,
-      "discussions": "6892",
+      "time": "2026-05-05 19:14",
+      "heat": 196242,
+      "discussions": "6894",
       "tags": [
         "财政"
       ],
@@ -61,9 +61,9 @@
       "platform_class": "platform-bilibili",
       "author": "华理月",
       "url": "http://www.bilibili.com/video/av751591016",
-      "time": "2026-05-05 10:23",
-      "heat": 86109,
-      "discussions": "4071",
+      "time": "2026-05-05 19:14",
+      "heat": 86143,
+      "discussions": "4073",
       "tags": [
         "税收"
       ],
@@ -78,8 +78,8 @@
       "platform_class": "platform-bilibili",
       "author": "ueez",
       "url": "http://www.bilibili.com/video/av90606906",
-      "time": "2026-05-05 10:23",
-      "heat": 68380,
+      "time": "2026-05-05 19:14",
+      "heat": 68383,
       "discussions": "1020",
       "tags": [
         "税务",
@@ -90,6 +90,25 @@
       "detail": "<p>关注！！关注我！！！\n不要把我放进收藏夹吃灰！！！</p>"
     },
     {
+      "id": "d1bbb6ebeae0",
+      "title": "财会实操： 金税盘增值税专票开具、电子税务局纳税申报、个税自然人税收管理、汇算清缴、纳税申报、工商年检",
+      "summary": "财会实操： 金税盘增值税专票开具、电子税务局纳税申报、汇算清缴、纳税申报、工商年检",
+      "source": "B站",
+      "platform_class": "platform-bilibili",
+      "author": "金蝶培训",
+      "url": "http://www.bilibili.com/video/av545857498",
+      "time": "2026-05-05 19:14",
+      "heat": 33145,
+      "discussions": "268",
+      "tags": [
+        "增值税",
+        "个税",
+        "税收"
+      ],
+      "isHot": false,
+      "detail": "<p>财会实操： 金税盘增值税专票开具、电子税务局纳税申报、汇算清缴、纳税申报、工商年检</p>"
+    },
+    {
       "id": "b84e1705ba72",
       "title": "【晓夕手把手带你填写】一般纳税人申报表全流程详解！会计实操\\0基础会计出纳入门",
       "summary": "本课程分成两大板块：\r\n一、申报流程+七张报表的逻辑关系 \r\n二、15个案例分享：账务处理+发票开具+申报表填写",
@@ -97,8 +116,8 @@
       "platform_class": "platform-bilibili",
       "author": "晓铃铛课堂",
       "url": "http://www.bilibili.com/video/av1901011080",
-      "time": "2026-05-05 10:23",
-      "heat": 29742,
+      "time": "2026-05-05 19:14",
+      "heat": 29749,
       "discussions": "538",
       "tags": [
         "纳税",
@@ -109,6 +128,23 @@
       "detail": "<p>本课程分成两大板块：\r\n一、申报流程+七张报表的逻辑关系 \r\n二、15个案例分享：账务处理+发票开具+申报表填写</p>"
     },
     {
+      "id": "afa04dbb9e47",
+      "title": "【酷温】公积金改革：强制缴存 举报有理？！",
+      "summary": "【酷温】公积金改革：强制缴存 举报有理？！",
+      "source": "B站",
+      "platform_class": "platform-bilibili",
+      "author": "酷温Coolwin",
+      "url": "http://www.bilibili.com/video/av116249195453880",
+      "time": "2026-05-05 19:14",
+      "heat": 23379,
+      "discussions": "1413",
+      "tags": [
+        "公积金"
+      ],
+      "isHot": false,
+      "detail": "<p>【酷温】公积金改革：强制缴存 举报有理？！</p>"
+    },
+    {
       "id": "5b5ce2dfadaf",
       "title": "5.税收负担-征税以后谁来承担？谁弹性小谁来承担，谁不敏感谁承担",
       "summary": "-",
@@ -116,11 +152,28 @@
       "platform_class": "platform-bilibili",
       "author": "kaka老师-EcoFin",
       "url": "http://www.bilibili.com/video/av887657601",
-      "time": "2026-05-05 10:23",
-      "heat": 22763,
+      "time": "2026-05-05 19:14",
+      "heat": 22764,
       "discussions": "247",
       "tags": [
         "税收"
+      ],
+      "isHot": false,
+      "detail": "<p>-</p>"
+    },
+    {
+      "id": "285c8d12e153",
+      "title": "财政政策和货币政策，一个视频讲清楚！",
+      "summary": "-",
+      "source": "B站",
+      "platform_class": "platform-bilibili",
+      "author": "思政大满贯",
+      "url": "http://www.bilibili.com/video/av115490278080852",
+      "time": "2026-05-05 19:14",
+      "heat": 20128,
+      "discussions": "118",
+      "tags": [
+        "财政"
       ],
       "isHot": false,
       "detail": "<p>-</p>"
@@ -133,9 +186,9 @@
       "platform_class": "platform-bilibili",
       "author": "柏年说",
       "url": "http://www.bilibili.com/video/av116407471708674",
-      "time": "2026-05-05 10:23",
-      "heat": 12539,
-      "discussions": "104",
+      "time": "2026-05-05 19:14",
+      "heat": 13568,
+      "discussions": "108",
       "tags": [],
       "isHot": false,
       "detail": "<p>感谢各位老铁的点赞、投币和转发，如果觉得内容不错，欢迎充电支持。\n柏年的充电视频已经全面上线，包含【柏年财富说】和【深度观察】两个频道。\n其中【柏年财富说】会用更多的图表，更加专业的话语，以类路演的形式为大家带来当月的【宏观与政策分析】，以及当月的【大类资产研判与分析】；\n【深度观察】将聚焦当下的产业现状、社会问题以及地缘局势等热门话题的深度分析和解读。\n两个栏目加在一起，每个月至少会有3篇深度作</p>"
@@ -148,8 +201,8 @@
       "platform_class": "platform-bilibili",
       "author": "小熊老师带你飞",
       "url": "http://www.bilibili.com/video/av717134900",
-      "time": "2026-05-05 10:23",
-      "heat": 12309,
+      "time": "2026-05-05 19:14",
+      "heat": 12312,
       "discussions": "565",
       "tags": [
         "税收",
@@ -166,7 +219,7 @@
       "platform_class": "platform-bilibili",
       "author": "暾将出兮-",
       "url": "http://www.bilibili.com/video/av1053137057",
-      "time": "2026-05-05 10:23",
+      "time": "2026-05-05 19:14",
       "heat": 11389,
       "discussions": "560",
       "tags": [
@@ -184,8 +237,8 @@
       "platform_class": "platform-bilibili",
       "author": "会计学堂官方",
       "url": "http://www.bilibili.com/video/av500052063",
-      "time": "2026-05-05 10:23",
-      "heat": 10107,
+      "time": "2026-05-05 19:14",
+      "heat": 10108,
       "discussions": "159",
       "tags": [
         "纳税",
@@ -203,8 +256,8 @@
       "platform_class": "platform-bilibili",
       "author": "经管老邢",
       "url": "http://www.bilibili.com/video/av728404368",
-      "time": "2026-05-05 10:23",
-      "heat": 10091,
+      "time": "2026-05-05 19:14",
+      "heat": 10092,
       "discussions": "227",
       "tags": [
         "税收"
@@ -220,7 +273,7 @@
       "platform_class": "platform-bilibili",
       "author": "冷冻葡萄",
       "url": "http://www.bilibili.com/video/av96446764",
-      "time": "2026-05-05 10:23",
+      "time": "2026-05-05 19:14",
       "heat": 8276,
       "discussions": "223",
       "tags": [
@@ -238,8 +291,8 @@
       "platform_class": "platform-bilibili",
       "author": "跟着可可学实操",
       "url": "http://www.bilibili.com/video/av704446276",
-      "time": "2026-05-05 10:23",
-      "heat": 7540,
+      "time": "2026-05-05 19:14",
+      "heat": 7541,
       "discussions": "253",
       "tags": [
         "税务",
@@ -256,7 +309,7 @@
       "platform_class": "platform-bilibili",
       "author": "高顿教育",
       "url": "http://www.bilibili.com/video/av625350631",
-      "time": "2026-05-05 10:23",
+      "time": "2026-05-05 19:14",
       "heat": 6861,
       "discussions": "215",
       "tags": [
@@ -275,8 +328,8 @@
       "platform_class": "platform-bilibili",
       "author": "小小蛮01",
       "url": "http://www.bilibili.com/video/av549616067",
-      "time": "2026-05-05 10:23",
-      "heat": 6359,
+      "time": "2026-05-05 19:14",
+      "heat": 6360,
       "discussions": "82",
       "tags": [],
       "isHot": false,
@@ -290,8 +343,8 @@
       "platform_class": "platform-bilibili",
       "author": "会计学习吧",
       "url": "http://www.bilibili.com/video/av1303710930",
-      "time": "2026-05-05 10:23",
-      "heat": 5867,
+      "time": "2026-05-05 19:14",
+      "heat": 5869,
       "discussions": "56",
       "tags": [
         "税务"
@@ -307,7 +360,7 @@
       "platform_class": "platform-bilibili",
       "author": "你好庚子君",
       "url": "http://www.bilibili.com/video/av378204704",
-      "time": "2026-05-05 10:23",
+      "time": "2026-05-05 19:14",
       "heat": 5820,
       "discussions": "63",
       "tags": [
@@ -325,7 +378,7 @@
       "platform_class": "platform-bilibili",
       "author": "梓晖",
       "url": "http://www.bilibili.com/video/av248776671",
-      "time": "2026-05-05 10:23",
+      "time": "2026-05-05 19:14",
       "heat": 5746,
       "discussions": "3",
       "tags": [
@@ -343,7 +396,7 @@
       "platform_class": "platform-bilibili",
       "author": "笑嫣然一醉浮生",
       "url": "http://www.bilibili.com/video/av1351511765",
-      "time": "2026-05-05 10:23",
+      "time": "2026-05-05 19:14",
       "heat": 5703,
       "discussions": "203",
       "tags": [
@@ -355,6 +408,24 @@
       "detail": "<p>网中网财务决策中“成本管理”岗位的全部操作讲解第一期\n本期主要包括：发票索取、成本分配表的填制、增值税及其他税的申报</p>"
     },
     {
+      "id": "2f003b5ccbef",
+      "title": "中国财税史-中南财经政法大学",
+      "summary": "https://www.icourse163.org/course/ZNUEDU-1207039804\n财政是国家治理的基础和重要支柱。从历史上看，在历次重大社会改革中财政改革都居于核心位置。本门课程从历史学视角，通过深入浅出的语言，在动态的历史长河中探寻国家兴衰更替背后的财政因素，总结中国财税制度向近代化、现代化转型的脉络、特点、规律和经验教训，传承与创新中国优秀财税制度与文化。",
+      "source": "B站",
+      "platform_class": "platform-bilibili",
+      "author": "工地锁螺丝",
+      "url": "http://www.bilibili.com/video/av92669549",
+      "time": "2026-05-05 19:14",
+      "heat": 5638,
+      "discussions": "99",
+      "tags": [
+        "税制",
+        "财政"
+      ],
+      "isHot": false,
+      "detail": "<p>https://www.icourse163.org/course/ZNUEDU-1207039804\n财政是国家治理的基础和重要支柱。从历史上看，在历次重大社会改革中财政改革都居于核心位置。本门课程从历史学视角，通过深入浅出的语言，在动态的历史长河中探寻国家兴衰更替背后的财政因素，总结中国财税制度向近代化、现代化转型的脉络、特点、规律和经验教训，传承与创新中国优秀财税制度与文化。</p>"
+    },
+    {
       "id": "c4d3371b4d0e",
       "title": "个体工商户如何申报纳税",
       "summary": "查账征收的个体户主要就申报增值税和经营所得税，增值税有一个季度30万的免税额度，经营所得也有一年6万的免税额度，不要忘记享受？",
@@ -362,8 +433,8 @@
       "platform_class": "platform-bilibili",
       "author": "会计收徒丶信德",
       "url": "http://www.bilibili.com/video/av115863722202805",
-      "time": "2026-05-05 10:23",
-      "heat": 5172,
+      "time": "2026-05-05 19:14",
+      "heat": 5180,
       "discussions": "98",
       "tags": [
         "增值税",
@@ -381,7 +452,7 @@
       "platform_class": "platform-bilibili",
       "author": "华夏基金官方账号",
       "url": "http://www.bilibili.com/video/av1603972168",
-      "time": "2026-05-05 10:23",
+      "time": "2026-05-05 19:14",
       "heat": 4531,
       "discussions": "94",
       "tags": [],
@@ -396,7 +467,7 @@
       "platform_class": "platform-bilibili",
       "author": "企业培训学堂",
       "url": "http://www.bilibili.com/video/av849943839",
-      "time": "2026-05-05 10:23",
+      "time": "2026-05-05 19:14",
       "heat": 4143,
       "discussions": "35",
       "tags": [
@@ -406,6 +477,25 @@
       "detail": "<p>英盛网\n节税18招，你知道吗？</p>"
     },
     {
+      "id": "1c46a276e29a",
+      "title": "一般纳税人纳税申报讲解",
+      "summary": "我不是老师，只是一名会计小白（初级已过），视频在官网上看都是要付费的（每个专题知识价格不一样，都是三位数起步），只是单纯分享，一起学习进步，喜欢的可以一键三连支持一下，不要白嫖",
+      "source": "B站",
+      "platform_class": "platform-bilibili",
+      "author": "Brandy_源轩小酒馆",
+      "url": "http://www.bilibili.com/video/av849186331",
+      "time": "2026-05-05 19:14",
+      "heat": 3258,
+      "discussions": "16",
+      "tags": [
+        "纳税",
+        "纳税申报",
+        "一般纳税人"
+      ],
+      "isHot": false,
+      "detail": "<p>我不是老师，只是一名会计小白（初级已过），视频在官网上看都是要付费的（每个专题知识价格不一样，都是三位数起步），只是单纯分享，一起学习进步，喜欢的可以一键三连支持一下，不要白嫖</p>"
+    },
+    {
       "id": "8257b0b35fb4",
       "title": "2025年新版电子税务局税务注销全流程",
       "summary": "-",
@@ -413,8 +503,8 @@
       "platform_class": "platform-bilibili",
       "author": "晗妈会计",
       "url": "http://www.bilibili.com/video/av114640730195595",
-      "time": "2026-05-05 10:23",
-      "heat": 3250,
+      "time": "2026-05-05 19:14",
+      "heat": 3251,
       "discussions": "125",
       "tags": [
         "税务",
@@ -424,21 +514,21 @@
       "detail": "<p>-</p>"
     },
     {
-      "id": "4e7c817e55d0",
-      "title": "税收起源故事，中国古代缴税出钱还要出力，田赋装样子杂税薅羊毛",
-      "summary": "税收起源故事，中国古代缴税出钱还要出力，田赋装样子杂税薅羊毛",
+      "id": "e369e80157c7",
+      "title": "消费税新政下啤酒会涨价么？",
+      "summary": "8号公告改的什么？有什么影响？消费税未来改革方向？",
       "source": "B站",
       "platform_class": "platform-bilibili",
-      "author": "你好庚子君",
-      "url": "http://www.bilibili.com/video/av505657280",
-      "time": "2026-05-05 10:23",
-      "heat": 2816,
-      "discussions": "18",
+      "author": "毛头鹰水铺程掌柜",
+      "url": "http://www.bilibili.com/video/av116347023393458",
+      "time": "2026-05-05 19:14",
+      "heat": 2141,
+      "discussions": "40",
       "tags": [
-        "税收"
+        "消费税"
       ],
       "isHot": false,
-      "detail": "<p>税收起源故事，中国古代缴税出钱还要出力，田赋装样子杂税薅羊毛</p>"
+      "detail": "<p>8号公告改的什么？有什么影响？消费税未来改革方向？</p>"
     },
     {
       "id": "bba1b80a78bc",
@@ -448,7 +538,7 @@
       "platform_class": "platform-bilibili",
       "author": "杨小呆不呆",
       "url": "http://www.bilibili.com/video/av481374861",
-      "time": "2026-05-05 10:23",
+      "time": "2026-05-05 19:14",
       "heat": 1997,
       "discussions": "5",
       "tags": [],
@@ -463,8 +553,8 @@
       "platform_class": "platform-bilibili",
       "author": "晗妈会计",
       "url": "http://www.bilibili.com/video/av115349114586330",
-      "time": "2026-05-05 10:23",
-      "heat": 1783,
+      "time": "2026-05-05 19:14",
+      "heat": 1784,
       "discussions": "29",
       "tags": [
         "增值税"
@@ -480,8 +570,8 @@
       "platform_class": "platform-bilibili",
       "author": "凡小赛说财税",
       "url": "http://www.bilibili.com/video/av114803687294184",
-      "time": "2026-05-05 10:23",
-      "heat": 1674,
+      "time": "2026-05-05 19:14",
+      "heat": 1675,
       "discussions": "38",
       "tags": [
         "纳税",
@@ -498,7 +588,7 @@
       "platform_class": "platform-bilibili",
       "author": "梨绘橙沐",
       "url": "http://www.bilibili.com/video/av980323971",
-      "time": "2026-05-05 10:23",
+      "time": "2026-05-05 19:14",
       "heat": 1660,
       "discussions": "25",
       "tags": [
@@ -516,29 +606,12 @@
       "platform_class": "platform-bilibili",
       "author": "小辉教你开公司",
       "url": "http://www.bilibili.com/video/av113988952130500",
-      "time": "2026-05-05 10:23",
+      "time": "2026-05-05 19:14",
       "heat": 1511,
       "discussions": "8",
       "tags": [],
       "isHot": false,
       "detail": "<p>小规模和小微企业的优惠政策</p>"
-    },
-    {
-      "id": "f949a1007b5e",
-      "title": "税收大课堂，推荐18岁以下观看",
-      "summary": "税收大课堂，推荐18岁以下观看",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "狼道大狮",
-      "url": "http://www.bilibili.com/video/av926150539",
-      "time": "2026-05-05 10:23",
-      "heat": 1260,
-      "discussions": "0",
-      "tags": [
-        "税收"
-      ],
-      "isHot": false,
-      "detail": "<p>税收大课堂，推荐18岁以下观看</p>"
     },
     {
       "id": "aa1d497b74ee",
@@ -548,7 +621,7 @@
       "platform_class": "platform-bilibili",
       "author": "小财分享师",
       "url": "http://www.bilibili.com/video/av786199205",
-      "time": "2026-05-05 10:23",
+      "time": "2026-05-05 19:14",
       "heat": 1211,
       "discussions": "14",
       "tags": [
@@ -567,9 +640,9 @@
       "platform_class": "platform-bilibili",
       "author": "侯哥讲财税",
       "url": "http://www.bilibili.com/video/av116136083457574",
-      "time": "2026-05-05 10:23",
-      "heat": 1200,
-      "discussions": "29",
+      "time": "2026-05-05 19:14",
+      "heat": 1202,
+      "discussions": "30",
       "tags": [
         "增值税"
       ],
@@ -584,8 +657,8 @@
       "platform_class": "platform-bilibili",
       "author": "田志伟老师",
       "url": "http://www.bilibili.com/video/av1204336459",
-      "time": "2026-05-05 10:23",
-      "heat": 1033,
+      "time": "2026-05-05 19:14",
+      "heat": 1034,
       "discussions": "38",
       "tags": [
         "税收",
@@ -596,41 +669,19 @@
       "detail": "<p>企业重组中的税务处理，其中特殊税务处理有一些争议，我们以股权收购为例对这一问题进行详解</p>"
     },
     {
-      "id": "431c50b0c412",
-      "title": "中联智能财税1+X纳税申报",
-      "summary": "中联智能财税1+X中级证书样题讲解",
+      "id": "40ccaa161812",
+      "title": "卢麒元《税政改革：不流血的革命》完整版",
+      "summary": "好不容易找到的完整版",
       "source": "B站",
       "platform_class": "platform-bilibili",
-      "author": "鲸鱼鲸鱼321",
-      "url": "http://www.bilibili.com/video/av748152495",
-      "time": "2026-05-05 10:23",
-      "heat": 818,
-      "discussions": "8",
-      "tags": [
-        "纳税",
-        "纳税申报"
-      ],
+      "author": "蓝柳煊",
+      "url": "http://www.bilibili.com/video/av114762130135498",
+      "time": "2026-05-05 19:14",
+      "heat": 1026,
+      "discussions": "15",
+      "tags": [],
       "isHot": false,
-      "detail": "<p>中联智能财税1+X中级证书样题讲解</p>"
-    },
-    {
-      "id": "dcde2d925a18",
-      "title": "会计实操~新版电子税务局里，如何查询、下载往期申报表？",
-      "summary": "-",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "典益企业会计",
-      "url": "http://www.bilibili.com/video/av113106286087738",
-      "time": "2026-05-05 10:23",
-      "heat": 450,
-      "discussions": "7",
-      "tags": [
-        "税务",
-        "会计",
-        "报表"
-      ],
-      "isHot": false,
-      "detail": "<p>-</p>"
+      "detail": "<p>好不容易找到的完整版</p>"
     },
     {
       "id": "d5335623c5b9",
@@ -640,7 +691,7 @@
       "platform_class": "platform-bilibili",
       "author": "快学会计官方",
       "url": "http://www.bilibili.com/video/av969490107",
-      "time": "2026-05-05 10:23",
+      "time": "2026-05-05 19:14",
       "heat": 425,
       "discussions": "0",
       "tags": [
@@ -659,8 +710,8 @@
       "platform_class": "platform-bilibili",
       "author": "跟刘老师学会计实操",
       "url": "http://www.bilibili.com/video/av116413763160053",
-      "time": "2026-05-05 10:23",
-      "heat": 404,
+      "time": "2026-05-05 19:14",
+      "heat": 411,
       "discussions": "3",
       "tags": [
         "报表",
@@ -671,19 +722,23 @@
       "detail": "<p>这是试听课，想学习完整版V我：fewone001或beardear7</p>"
     },
     {
-      "id": "963774805a3f",
-      "title": "财税陈陈不吃香菜_2026-03-26_15-40-42",
-      "summary": "douyin.com",
+      "id": "1b5c88140411",
+      "title": "【税务审计】各种保险费，咋纳税调整？咋填写纳税申报表？税法规定大总结",
+      "summary": "全套内容，请见置顶评论~",
       "source": "B站",
       "platform_class": "platform-bilibili",
-      "author": "g的加速",
-      "url": "http://www.bilibili.com/video/av116304845473535",
-      "time": "2026-05-05 10:23",
-      "heat": 238,
-      "discussions": "2",
-      "tags": [],
+      "author": "审计三三",
+      "url": "http://www.bilibili.com/video/av116485989146245",
+      "time": "2026-05-05 19:14",
+      "heat": 211,
+      "discussions": "7",
+      "tags": [
+        "税务",
+        "纳税",
+        "税法"
+      ],
       "isHot": false,
-      "detail": "<p>douyin.com</p>"
+      "detail": "<p>全套内容，请见置顶评论~</p>"
     },
     {
       "id": "3f663d598de5",
@@ -693,8 +748,8 @@
       "platform_class": "platform-bilibili",
       "author": "飞洋杂谈",
       "url": "http://www.bilibili.com/video/av116509829562395",
-      "time": "2026-05-05 10:23",
-      "heat": 203,
+      "time": "2026-05-05 19:14",
+      "heat": 209,
       "discussions": "3",
       "tags": [
         "个税"
@@ -710,12 +765,31 @@
       "platform_class": "platform-bilibili",
       "author": "学考易通",
       "url": "http://www.bilibili.com/video/av116420625173178",
-      "time": "2026-05-05 10:23",
-      "heat": 168,
+      "time": "2026-05-05 19:14",
+      "heat": 171,
       "discussions": "2",
       "tags": [],
       "isHot": false,
       "detail": "<p>最新备考资料领取方式：\n1.打开-微-信，搜索公-终-呺：学考易通\n2.在-公-终-呺-内发送关键词：领取资料\n3.即可获取最新备考资料！</p>"
+    },
+    {
+      "id": "b2f3a21de1bc",
+      "title": "新一轮财税体制改革聚焦七大关键问题，从财政收入比重调整到地方税收体系完善，再到中央与地方财政关系优化，全面布局应对经济挑战，助力经济高质量发展。",
+      "summary": "新一轮财税体制改革聚焦七大关键问题，从财政收入比重调整到地方税收体系完善，再到中央与地方财政关系优化，全面布局应对经济挑战，助力经济高质量发展。",
+      "source": "B站",
+      "platform_class": "platform-bilibili",
+      "author": "禾略财讯",
+      "url": "http://www.bilibili.com/video/av115087289354102",
+      "time": "2026-05-05 19:14",
+      "heat": 108,
+      "discussions": "1",
+      "tags": [
+        "税收",
+        "财政",
+        "地方财政"
+      ],
+      "isHot": false,
+      "detail": "<p>新一轮财税体制改革聚焦七大关键问题，从财政收入比重调整到地方税收体系完善，再到中央与地方财政关系优化，全面布局应对经济挑战，助力经济高质量发展。</p>"
     },
     {
       "id": "0d5ca06db964",
@@ -725,8 +799,8 @@
       "platform_class": "platform-bilibili",
       "author": "跟刘老师学会计实操",
       "url": "http://www.bilibili.com/video/av116402488870130",
-      "time": "2026-05-05 10:23",
-      "heat": 98,
+      "time": "2026-05-05 19:14",
+      "heat": 99,
       "discussions": "5",
       "tags": [
         "增值税",
@@ -737,22 +811,22 @@
       "detail": "<p>这是试听课，想学习完整版V我：fewone001或beardear7</p>"
     },
     {
-      "id": "5426beb30a37",
-      "title": "退役军人税收优惠政策解读（上）",
-      "summary": "退役军人或士兵自主创业或用人单位招聘退役军人，有哪些税收优惠，注意事项有哪些，如何进行信息采集和减免登记，听侯哥给你说。",
+      "id": "c871eccb5dba",
+      "title": "2026年最新：农业会计（种植业、养殖业）--政策解读、全盘账务处理、报税（5税2费）",
+      "summary": "这是试听课，想学习完整版V我：fewone001或beardear7",
       "source": "B站",
       "platform_class": "platform-bilibili",
-      "author": "侯哥讲财税",
-      "url": "http://www.bilibili.com/video/av112929638714078",
-      "time": "2026-05-05 10:23",
-      "heat": 90,
-      "discussions": "0",
+      "author": "跟刘老师学会计实操",
+      "url": "http://www.bilibili.com/video/av116248675354487",
+      "time": "2026-05-05 19:14",
+      "heat": 88,
+      "discussions": "1",
       "tags": [
-        "税收",
-        "税收优惠"
+        "会计",
+        "报税"
       ],
       "isHot": false,
-      "detail": "<p>退役军人或士兵自主创业或用人单位招聘退役军人，有哪些税收优惠，注意事项有哪些，如何进行信息采集和减免登记，听侯哥给你说。</p>"
+      "detail": "<p>这是试听课，想学习完整版V我：fewone001或beardear7</p>"
     },
     {
       "id": "a767f93dd316",
@@ -762,7 +836,7 @@
       "platform_class": "platform-bilibili",
       "author": "东奥会计实操",
       "url": "http://www.bilibili.com/video/av116327981252709",
-      "time": "2026-05-05 10:23",
+      "time": "2026-05-05 19:14",
       "heat": 81,
       "discussions": "1",
       "tags": [],
@@ -777,8 +851,8 @@
       "platform_class": "platform-bilibili",
       "author": "爱哔哔的刘师傅",
       "url": "http://www.bilibili.com/video/av116385225186022",
-      "time": "2026-05-05 10:23",
-      "heat": 73,
+      "time": "2026-05-05 19:14",
+      "heat": 76,
       "discussions": "2",
       "tags": [
         "税制",
@@ -788,19 +862,22 @@
       "detail": "<p>从1980年财政包干制到1994年分税制改革</p>"
     },
     {
-      "id": "b469813093bb",
-      "title": "校长！是教育改革路上最大的绊脚石！",
-      "summary": "云南强制高中双休，老师们喜大普奔。但别高兴太早，河南的“史上最严双休令”已经演变成了一场“猫鼠游戏”。\n为什么国家的好政策，一到学校就变形？为什么校长们宁可教学生撒谎，也要顶风作案？\n这期视频，我不只是骂校长，而是用几个英语思维工具拆解背后的逻辑：\n Zero-sum competition、Principal-Agent Problem、Goodhart’s Law、Performative C",
+      "id": "0eab188b0a99",
+      "title": "2026年最新：电商会计--政策解读、全盘账务处理、报税（5税2费）、热点问题解析",
+      "summary": "这是试听课，想学习完整版V我：fewone001",
       "source": "B站",
       "platform_class": "platform-bilibili",
-      "author": "大喜GiGi",
-      "url": "http://www.bilibili.com/video/av116515751991138",
-      "time": "2026-05-05 10:23",
-      "heat": 72,
-      "discussions": "1",
-      "tags": [],
+      "author": "跟刘老师学会计实操",
+      "url": "http://www.bilibili.com/video/av116480033161467",
+      "time": "2026-05-05 19:14",
+      "heat": 58,
+      "discussions": "0",
+      "tags": [
+        "会计",
+        "报税"
+      ],
       "isHot": false,
-      "detail": "<p>云南强制高中双休，老师们喜大普奔。但别高兴太早，河南的“史上最严双休令”已经演变成了一场“猫鼠游戏”。\n为什么国家的好政策，一到学校就变形？为什么校长们宁可教学生撒谎，也要顶风作案？\n这期视频，我不只是骂校长，而是用几个英语思维工具拆解背后的逻辑：\n Zero-sum competition、Principal-Agent Problem、Goodhart’s Law、Performative C</p>"
+      "detail": "<p>这是试听课，想学习完整版V我：fewone001</p>"
     },
     {
       "id": "667d5a65b02e",
@@ -810,7 +887,7 @@
       "platform_class": "platform-bilibili",
       "author": "刘老师说财税",
       "url": "http://www.bilibili.com/video/av116142559462971",
-      "time": "2026-05-05 10:23",
+      "time": "2026-05-05 19:14",
       "heat": 57,
       "discussions": "0",
       "tags": [
@@ -822,39 +899,6 @@
       "detail": "<p>-</p>"
     },
     {
-      "id": "5a524caeae55",
-      "title": "2026高级经济师高经财税：精讲班完整版有讲义",
-      "summary": "请大家帮忙一键三连、谢谢大家！\n\n后续包含习题班。冲刺班、押题班等",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "学姐在线168",
-      "url": "http://www.bilibili.com/video/av116407824089209",
-      "time": "2026-05-05 10:23",
-      "heat": 57,
-      "discussions": "0",
-      "tags": [],
-      "isHot": false,
-      "detail": "<p>请大家帮忙一键三连、谢谢大家！\n\n后续包含习题班。冲刺班、押题班等</p>"
-    },
-    {
-      "id": "0eab188b0a99",
-      "title": "2026年最新：电商会计--政策解读、全盘账务处理、报税（5税2费）、热点问题解析",
-      "summary": "这是试听课，想学习完整版V我：fewone001",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "跟刘老师学会计实操",
-      "url": "http://www.bilibili.com/video/av116480033161467",
-      "time": "2026-05-05 10:23",
-      "heat": 55,
-      "discussions": "0",
-      "tags": [
-        "会计",
-        "报税"
-      ],
-      "isHot": false,
-      "detail": "<p>这是试听课，想学习完整版V我：fewone001</p>"
-    },
-    {
       "id": "e781c36881a9",
       "title": "2026年建筑业税收政策重大变革--郑老师",
       "summary": "2026年建筑业税收政策重大变革--郑老师",
@@ -862,7 +906,7 @@
       "platform_class": "platform-bilibili",
       "author": "建筑财税带教",
       "url": "http://www.bilibili.com/video/av116318502129854",
-      "time": "2026-05-05 10:23",
+      "time": "2026-05-05 19:14",
       "heat": 53,
       "discussions": "1",
       "tags": [
@@ -872,38 +916,23 @@
       "detail": "<p>2026年建筑业税收政策重大变革--郑老师</p>"
     },
     {
-      "id": "2f5058a45474",
-      "title": "别等政策救孩子！校园体育改革，家长才是第一责任人！",
-      "summary": "学生体质差，真的是体育课被占吗？核心是孩子根本不爱体育！\n\n国家大力推进体育教育改革，理念繁杂、措施落地难，等见效孩子早已错过成长关键期。\n别把孩子健康全推给学校，吃得香、睡得好才是真健康，孩子的体育出路，终究要家长自己上心！",
+      "id": "3879479c10e7",
+      "title": "【100期跨境财税脱口秀】《转让定价：BEPS的操作系统！为什么利润归属是跨国税改的终极战场？》",
+      "summary": "欢迎来到【100期跨境财税脱口秀】第20期\n\n【本期主题】转让定价：BEPS最核心的制度——利润分配的&quot;操作系统&quot;\n【关键词】转让定价、BEPS核心制度、独立交易原则、FAR分析、DEMPE框架、利润归属、经济实质、全球税率差\n\n这是一档追踪&quot;利润流向&quot;的跨境财税脱口秀。\n\n你有没有想过，为什么跨国公司的利润可以&quot;精确制导、指哪打哪&quot;？为",
       "source": "B站",
       "platform_class": "platform-bilibili",
-      "author": "是吧大爷",
-      "url": "http://www.bilibili.com/video/av116515802191232",
-      "time": "2026-05-05 10:23",
-      "heat": 51,
-      "discussions": "1",
-      "tags": [],
-      "isHot": false,
-      "detail": "<p>学生体质差，真的是体育课被占吗？核心是孩子根本不爱体育！\n\n国家大力推进体育教育改革，理念繁杂、措施落地难，等见效孩子早已错过成长关键期。\n别把孩子健康全推给学校，吃得香、睡得好才是真健康，孩子的体育出路，终究要家长自己上心！</p>"
-    },
-    {
-      "id": "43bcb5e2b36d",
-      "title": "新增值税法等新政来袭！一个视频带你了解纳税申报表新变化！跟着娟子老师走，财税申报不迷路！",
-      "summary": "本视频46分钟，主要向大家介绍新增值税法等新政下增值税纳税申报表之变化。也同时欢迎大家关注微信公众号：垚睿税审，免费了解和学习财税知识！",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "财税365个小问题harren",
-      "url": "http://www.bilibili.com/video/av116492364416215",
-      "time": "2026-05-05 10:23",
-      "heat": 24,
-      "discussions": "1",
+      "author": "跨境财税脱口秀",
+      "url": "http://www.bilibili.com/video/av116425473656402",
+      "time": "2026-05-05 19:14",
+      "heat": 38,
+      "discussions": "0",
       "tags": [
-        "增值税",
-        "纳税",
-        "税法"
+        "税务",
+        "税率",
+        "税改"
       ],
       "isHot": false,
-      "detail": "<p>本视频46分钟，主要向大家介绍新增值税法等新政下增值税纳税申报表之变化。也同时欢迎大家关注微信公众号：垚睿税审，免费了解和学习财税知识！</p>"
+      "detail": "<p>欢迎来到【100期跨境财税脱口秀】第20期\n\n【本期主题】转让定价：BEPS最核心的制度——利润分配的&quot;操作系统&quot;\n【关键词】转让定价、BEPS核心制度、独立交易原则、FAR分析、DEMPE框架、利润归属、经济实质、全球税率差\n\n这是一档追踪&quot;利润流向&quot;的跨境财税脱口秀。\n\n你有没有想过，为什么跨国公司的利润可以&quot;精确制导、指哪打哪&quot;？为</p>"
     },
     {
       "id": "1bc43c5d4d95",
@@ -913,8 +942,8 @@
       "platform_class": "platform-bilibili",
       "author": "順手牵洋",
       "url": "http://www.bilibili.com/video/av116503705820500",
-      "time": "2026-05-05 10:23",
-      "heat": 22,
+      "time": "2026-05-05 19:14",
+      "heat": 31,
       "discussions": "0",
       "tags": [
         "税务",
@@ -924,6 +953,21 @@
       "detail": "<p>全球税制大洗牌丨税务科普：三大税制阵营，你在哪一层？</p>"
     },
     {
+      "id": "b50f569564b6",
+      "title": "央企利润上缴35%，普通人要受益了#民生 #央企 #新规 #财税",
+      "summary": "央企利润上缴35%，普通人要受益了\n#民生 #央企 #新规 #财税",
+      "source": "B站",
+      "platform_class": "platform-bilibili",
+      "author": "觉醒隐学",
+      "url": "http://www.bilibili.com/video/av116509376514684",
+      "time": "2026-05-05 19:14",
+      "heat": 21,
+      "discussions": "0",
+      "tags": [],
+      "isHot": false,
+      "detail": "<p>央企利润上缴35%，普通人要受益了\n#民生 #央企 #新规 #财税</p>"
+    },
+    {
       "id": "99449462be49",
       "title": "社保不全员，风险有多大！#社保#财税#合规#风险#财税咨询#财税合规",
       "summary": "-",
@@ -931,7 +975,7 @@
       "platform_class": "platform-bilibili",
       "author": "苏州快智财税",
       "url": "http://www.bilibili.com/video/av116516288732669",
-      "time": "2026-05-05 10:23",
+      "time": "2026-05-05 19:14",
       "heat": 21,
       "discussions": "0",
       "tags": [
@@ -941,36 +985,6 @@
       "detail": "<p>-</p>"
     },
     {
-      "id": "b50f569564b6",
-      "title": "央企利润上缴35%，普通人要受益了#民生 #央企 #新规 #财税",
-      "summary": "央企利润上缴35%，普通人要受益了\n#民生 #央企 #新规 #财税",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "觉醒隐学",
-      "url": "http://www.bilibili.com/video/av116509376514684",
-      "time": "2026-05-05 10:23",
-      "heat": 20,
-      "discussions": "0",
-      "tags": [],
-      "isHot": false,
-      "detail": "<p>央企利润上缴35%，普通人要受益了\n#民生 #央企 #新规 #财税</p>"
-    },
-    {
-      "id": "40ccaa161812",
-      "title": "卢麒元《税政改革：不流血的革命》完整版",
-      "summary": "来自哔站其他b友的内容。\n卢麒元老师前几年的节目内容，当时无法发出来。后来发出来了但是播放量很小。所以，这边再次发一次。",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "小娃放牛",
-      "url": "http://www.bilibili.com/video/av116516959820548",
-      "time": "2026-05-05 10:23",
-      "heat": 19,
-      "discussions": "0",
-      "tags": [],
-      "isHot": false,
-      "detail": "<p>来自哔站其他b友的内容。\n卢麒元老师前几年的节目内容，当时无法发出来。后来发出来了但是播放量很小。所以，这边再次发一次。</p>"
-    },
-    {
       "id": "7cd737d20856",
       "title": "破产企业涉税问题最新政策权威解读",
       "summary": "新规明确破产税费债权顺位、赋权管理人办税、简化注销流程，打通破产程序涉税堵点。既保障国家税收，又支持企业依法退出或重整重生，彰显法治化营商环境建设新成效。",
@@ -978,7 +992,7 @@
       "platform_class": "platform-bilibili",
       "author": "坚果财税",
       "url": "http://www.bilibili.com/video/av116481627064979",
-      "time": "2026-05-05 10:23",
+      "time": "2026-05-05 19:14",
       "heat": 10,
       "discussions": "0",
       "tags": [
@@ -988,6 +1002,25 @@
       "detail": "<p>新规明确破产税费债权顺位、赋权管理人办税、简化注销流程，打通破产程序涉税堵点。既保障国家税收，又支持企业依法退出或重整重生，彰显法治化营商环境建设新成效。</p>"
     },
     {
+      "id": "0d7c954ffea3",
+      "title": "详解小微企业的企业所得税优惠税率，从公告解读，税率讲解，到申报表填写，一个视频带您了解清楚",
+      "summary": "详解小微企业的企业所得税优惠税率，从公告解读，税率讲解，到申报表填写，一个视频带您了解清楚",
+      "source": "B站",
+      "platform_class": "platform-bilibili",
+      "author": "马会计666",
+      "url": "http://www.bilibili.com/video/av116510920018867",
+      "time": "2026-05-05 19:14",
+      "heat": 8,
+      "discussions": "0",
+      "tags": [
+        "企业所得税",
+        "税率",
+        "报表"
+      ],
+      "isHot": false,
+      "detail": "<p>详解小微企业的企业所得税优惠税率，从公告解读，税率讲解，到申报表填写，一个视频带您了解清楚</p>"
+    },
+    {
       "id": "aef541f80d06",
       "title": "央企35%利润上缴，全民资源回归民生…#国企改革 #央企利润上缴 #社保基金 #政策解读#全民福利",
       "summary": "-",
@@ -995,7 +1028,7 @@
       "platform_class": "platform-bilibili",
       "author": "天涯神贴问道",
       "url": "http://www.bilibili.com/video/av116514896287977",
-      "time": "2026-05-05 10:23",
+      "time": "2026-05-05 19:14",
       "heat": 8,
       "discussions": "0",
       "tags": [
