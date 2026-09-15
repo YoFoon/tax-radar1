@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-15T00:09:05.048562+08:00",
-  "count": 79,
+  "updated_at": "2026-09-15T10:26:54.079371+08:00",
+  "count": 57,
   "topics": [
     {
       "id": "5a371c2529b8",
@@ -10,8 +10,8 @@
       "platform_class": "platform-bilibili",
       "author": "帝王夜谈",
       "url": "http://www.bilibili.com/video/av116041376145056",
-      "time": "2026-09-15 00:09",
-      "heat": 279987,
+      "time": "2026-09-15 10:26",
+      "heat": 280069,
       "discussions": "2.5万",
       "tags": [
         "税收"
@@ -27,44 +27,14 @@
       "platform_class": "platform-bilibili",
       "author": "青年门派",
       "url": "http://www.bilibili.com/video/av729661171",
-      "time": "2026-09-15 00:09",
-      "heat": 271652,
+      "time": "2026-09-15 10:26",
+      "heat": 271674,
       "discussions": "1.9万",
       "tags": [
         "纳税"
       ],
       "isHot": true,
       "detail": "<p>14亿中国人，到底纳了多少税？\n中国最主要的税种，是什么税？\n哪些省份是中国的纳税大户？\n本期我们盘一盘中国人纳税真相</p>"
-    },
-    {
-      "id": "d06fd7e4b769",
-      "title": "电车能开十年吗？",
-      "summary": "电车能开十年吗？",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "区胖曰车",
-      "url": "http://www.bilibili.com/video/av117000563070877",
-      "time": "2026-09-15 00:09",
-      "heat": 184674,
-      "discussions": "4602",
-      "tags": [],
-      "isHot": true,
-      "detail": "<p>电车能开十年吗？</p>"
-    },
-    {
-      "id": "76a98977eaf8",
-      "title": "电车要涨价了？油电同权的时代终将到来！",
-      "summary": "电车要涨价了？油电同权的时代终将到来！",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "超哥超车",
-      "url": "http://www.bilibili.com/video/av117060323511244",
-      "time": "2026-09-15 00:09",
-      "heat": 142741,
-      "discussions": "6644",
-      "tags": [],
-      "isHot": false,
-      "detail": "<p>电车要涨价了？油电同权的时代终将到来！</p>"
     },
     {
       "id": "898a3ad8cbac",
@@ -74,31 +44,16 @@
       "platform_class": "platform-bilibili",
       "author": "在学职考君",
       "url": "http://www.bilibili.com/video/av113700048475870",
-      "time": "2026-09-15 00:09",
-      "heat": 136183,
+      "time": "2026-09-15 10:26",
+      "heat": 136214,
       "discussions": "8405",
       "tags": [
         "税务",
         "税法",
         "税务师"
       ],
-      "isHot": false,
+      "isHot": true,
       "detail": "<p>完整版的课程上传完成了！麻烦大家还是帮忙点一个三连增加一下权重！下架不用担心哈，我在看到提醒的第一时间都会给大家重新上传的！大家一定要关注我！相关的备考资料和笔记都可以找我分享！</p>"
-    },
-    {
-      "id": "3e27e62cf6bd",
-      "title": "7月1日电池新国标即将实施！在这之前能买车吗？",
-      "summary": "7月1日电池新国标即将实施！在这之前能买车吗？",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "超哥超车",
-      "url": "http://www.bilibili.com/video/av116808061354270",
-      "time": "2026-09-15 00:09",
-      "heat": 93708,
-      "discussions": "3949",
-      "tags": [],
-      "isHot": false,
-      "detail": "<p>7月1日电池新国标即将实施！在这之前能买车吗？</p>"
     },
     {
       "id": "fe25977b28a4",
@@ -108,9 +63,9 @@
       "platform_class": "platform-bilibili",
       "author": "东奥教育",
       "url": "http://www.bilibili.com/video/av116814755467428",
-      "time": "2026-09-15 00:09",
-      "heat": 69539,
-      "discussions": "7044",
+      "time": "2026-09-15 10:26",
+      "heat": 69843,
+      "discussions": "7072",
       "tags": [
         "税务",
         "税法",
@@ -120,36 +75,6 @@
       "detail": "<p>课程内容：2026年税务师《税法一》基础精讲班-彭婷\n\n【一备两考】东奥中级&amp;注会免费备考课程👇👇👇\n26年《中级会计实务》课程：BV1j7ojYREm7\n26年中级《经济法》课程：BV1i9EizoEaj\n26年中级《财务管理》课程：BV1WREWzBEZM\n26年注会课程《会计》：BV1pK41157Zj\n26年注会课程《审计》：BV1WFRVYXE4x\n26年注会课程《税法》：BV1</p>"
     },
     {
-      "id": "2bb8442b0e68",
-      "title": "【参考信息第621期】新能源交车船税；严打恶意唱衰车市",
-      "summary": "继续分享马督工睡前消息编辑部关注的新闻",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "小黛晨读",
-      "url": "http://www.bilibili.com/video/av116861731604677",
-      "time": "2026-09-15 00:09",
-      "heat": 55103,
-      "discussions": "2309",
-      "tags": [],
-      "isHot": false,
-      "detail": "<p>继续分享马督工睡前消息编辑部关注的新闻</p>"
-    },
-    {
-      "id": "45bace2aaf48",
-      "title": "插混车主要开始每年交车船税了，纯电车主还能撑多久？【X.PIN】",
-      "summary": "从明年7月1日开始，所有混动车型就要开始征收车船税了。而在此之后，给新能源车的政策红利可能会越来越好，油车、电车的平权，就快要给提上日程了。",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "差评汽车部",
-      "url": "http://www.bilibili.com/video/av116889716131738",
-      "time": "2026-09-15 00:09",
-      "heat": 54799,
-      "discussions": "2893",
-      "tags": [],
-      "isHot": false,
-      "detail": "<p>从明年7月1日开始，所有混动车型就要开始征收车船税了。而在此之后，给新能源车的政策红利可能会越来越好，油车、电车的平权，就快要给提上日程了。</p>"
-    },
-    {
       "id": "d90ec9d88001",
       "title": "月薪三五千，就不用交税吗？ 国家每年要从你身上收走多少税钱？",
       "summary": "月薪三五千，就不用交税吗？ 国家每年要从你身上收走多少税钱？",
@@ -157,29 +82,12 @@
       "platform_class": "platform-bilibili",
       "author": "数据库kira",
       "url": "http://www.bilibili.com/video/av115898518077607",
-      "time": "2026-09-15 00:09",
-      "heat": 53615,
+      "time": "2026-09-15 10:26",
+      "heat": 53648,
       "discussions": "2400",
       "tags": [],
       "isHot": false,
       "detail": "<p>月薪三五千，就不用交税吗？ 国家每年要从你身上收走多少税钱？</p>"
-    },
-    {
-      "id": "8b7219aa2845",
-      "title": "电池消费税9月1日开征：养电车成本追平油车",
-      "summary": "你觉得呢？大家合理讨论一下",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "48MDXNZC",
-      "url": "http://www.bilibili.com/video/av117184860786720",
-      "time": "2026-09-15 00:09",
-      "heat": 48711,
-      "discussions": "1978",
-      "tags": [
-        "消费税"
-      ],
-      "isHot": false,
-      "detail": "<p>你觉得呢？大家合理讨论一下</p>"
     },
     {
       "id": "282bce9a6fd9",
@@ -189,29 +97,14 @@
       "platform_class": "platform-bilibili",
       "author": "小辉教你开公司",
       "url": "http://www.bilibili.com/video/av1902567208",
-      "time": "2026-09-15 00:09",
-      "heat": 22169,
+      "time": "2026-09-15 10:26",
+      "heat": 22170,
       "discussions": "179",
       "tags": [
         "税务"
       ],
       "isHot": false,
       "detail": "<p>税务基础知识</p>"
-    },
-    {
-      "id": "3b4ffc1d7c09",
-      "title": "三部门：明年（2027年）1月1日起，取消对节能汽车减半征收车船税政策，取消对插电式（含增程式）混合动力汽车等免征车船税政策",
-      "summary": "三部门：明年（2027年）1月1日起，取消对节能汽车减半征收车船税政策，取消对插电式（含增程式）混合动力汽车等免征车船税政策",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "河南都市频道",
-      "url": "http://www.bilibili.com/video/av116855507258356",
-      "time": "2026-09-15 00:09",
-      "heat": 20991,
-      "discussions": "190",
-      "tags": [],
-      "isHot": false,
-      "detail": "<p>三部门：明年（2027年）1月1日起，取消对节能汽车减半征收车船税政策，取消对插电式（含增程式）混合动力汽车等免征车船税政策</p>"
     },
     {
       "id": "5d97127c164e",
@@ -221,8 +114,8 @@
       "platform_class": "platform-bilibili",
       "author": "爱学习的偏口鱼",
       "url": "http://www.bilibili.com/video/av115426692436528",
-      "time": "2026-09-15 00:09",
-      "heat": 17179,
+      "time": "2026-09-15 10:26",
+      "heat": 17196,
       "discussions": "160",
       "tags": [
         "税务",
@@ -239,9 +132,9 @@
       "platform_class": "platform-bilibili",
       "author": "大汪和园子",
       "url": "http://www.bilibili.com/video/av117155014186444",
-      "time": "2026-09-15 00:09",
-      "heat": 14301,
-      "discussions": "1299",
+      "time": "2026-09-15 10:26",
+      "heat": 14565,
+      "discussions": "1314",
       "tags": [
         "个人所得税",
         "税收",
@@ -258,7 +151,7 @@
       "platform_class": "platform-bilibili",
       "author": "经管老邢",
       "url": "http://www.bilibili.com/video/av728404368",
-      "time": "2026-09-15 00:09",
+      "time": "2026-09-15 10:26",
       "heat": 10833,
       "discussions": "236",
       "tags": [
@@ -268,21 +161,6 @@
       "detail": "<p>【微观经济学】税收负担和税收转嫁</p>"
     },
     {
-      "id": "7abbed9a0f2b",
-      "title": "油电同权来了！新能源开收车船税！最高一年5400！",
-      "summary": "油电同权来了！新能源开收车船税！最高一年5400！",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "牛哥说车",
-      "url": "http://www.bilibili.com/video/av116873073001637",
-      "time": "2026-09-15 00:09",
-      "heat": 9706,
-      "discussions": "517",
-      "tags": [],
-      "isHot": false,
-      "detail": "<p>油电同权来了！新能源开收车船税！最高一年5400！</p>"
-    },
-    {
       "id": "c4a9e66ce60e",
       "title": "【大明子】纪元1800 全四年DLC 新手详细攻略 08 皇家税收详细介绍",
       "summary": "【大明子】纪元1800 全四年DLC 新手详细攻略 08 皇家税收详细介绍",
@@ -290,7 +168,7 @@
       "platform_class": "platform-bilibili",
       "author": "大明子1014",
       "url": "http://www.bilibili.com/video/av649870892",
-      "time": "2026-09-15 00:09",
+      "time": "2026-09-15 10:26",
       "heat": 8925,
       "discussions": "125",
       "tags": [
@@ -307,31 +185,14 @@
       "platform_class": "platform-bilibili",
       "author": "销冠李老板的连麦日常",
       "url": "http://www.bilibili.com/video/av117266834327476",
-      "time": "2026-09-15 00:09",
-      "heat": 6447,
-      "discussions": "72",
+      "time": "2026-09-15 10:26",
+      "heat": 7742,
+      "discussions": "89",
       "tags": [
         "税务"
       ],
       "isHot": false,
       "detail": "<p>-</p>"
-    },
-    {
-      "id": "de90da2e8576",
-      "title": "三部门发布车船税新规 纯电动乘用车继续免缴",
-      "summary": "三部门公告明确，从2027年1月1日起，节能汽车不再减半征收车船税，纯电动商用车、插电混动商用车、燃料电池商用车也不再免征车船税。\n常见的纯电动乘用车和燃料电池乘用车，因为本来就不在征税范围内，所以继续免缴车船税。\n以1.5升排量乘用车的车船税为例，北京一年420元，上海和广东为300元。如今新能源车保有量激增，继续优惠既影响税收公平，也弱化了调节作用，退出车船税支持政策的必要性不断增强。",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "看看新闻Knews",
-      "url": "http://www.bilibili.com/video/av116855691877895",
-      "time": "2026-09-15 00:09",
-      "heat": 6293,
-      "discussions": "55",
-      "tags": [
-        "税收"
-      ],
-      "isHot": false,
-      "detail": "<p>三部门公告明确，从2027年1月1日起，节能汽车不再减半征收车船税，纯电动商用车、插电混动商用车、燃料电池商用车也不再免征车船税。\n常见的纯电动乘用车和燃料电池乘用车，因为本来就不在征税范围内，所以继续免缴车船税。\n以1.5升排量乘用车的车船税为例，北京一年420元，上海和广东为300元。如今新能源车保有量激增，继续优惠既影响税收公平，也弱化了调节作用，退出车船税支持政策的必要性不断增强。</p>"
     },
     {
       "id": "046ba36d98ac",
@@ -341,7 +202,7 @@
       "platform_class": "platform-bilibili",
       "author": "天谴真给力",
       "url": "http://www.bilibili.com/video/av1406338084",
-      "time": "2026-09-15 00:09",
+      "time": "2026-09-15 10:26",
       "heat": 6209,
       "discussions": "176",
       "tags": [
@@ -351,34 +212,19 @@
       "detail": "<p>求关注</p>"
     },
     {
-      "id": "eb43e35a36e0",
-      "title": "车船税明年调整，很多人说增程完了",
-      "summary": "车船税明年调整，很多人说增程完了",
+      "id": "70da2d6d7949",
+      "title": "2026年中级经济师-财税-精讲班（资料领取在评论区）",
+      "summary": "学习v：zlfb2256，手机端可长按复制该段文字",
       "source": "B站",
       "platform_class": "platform-bilibili",
-      "author": "也要读书",
-      "url": "http://www.bilibili.com/video/av116859215086362",
-      "time": "2026-09-15 00:09",
-      "heat": 6174,
-      "discussions": "328",
+      "author": "学考易通",
+      "url": "http://www.bilibili.com/video/av116420625173178",
+      "time": "2026-09-15 10:26",
+      "heat": 5003,
+      "discussions": "83",
       "tags": [],
       "isHot": false,
-      "detail": "<p>车船税明年调整，很多人说增程完了</p>"
-    },
-    {
-      "id": "523f59074f3d",
-      "title": "国家发布明年取消新能源车船优惠税，调整新能源汽车等车船节能优惠税。什么是车船税？2026年7月3日发布公告。",
-      "summary": "-",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "科技实现宇宙共产大同",
-      "url": "http://www.bilibili.com/video/av116855624697355",
-      "time": "2026-09-15 00:09",
-      "heat": 5897,
-      "discussions": "264",
-      "tags": [],
-      "isHot": false,
-      "detail": "<p>-</p>"
+      "detail": "<p>学习v：zlfb2256，手机端可长按复制该段文字</p>"
     },
     {
       "id": "8257b0b35fb4",
@@ -388,8 +234,8 @@
       "platform_class": "platform-bilibili",
       "author": "晗妈会计",
       "url": "http://www.bilibili.com/video/av114640730195595",
-      "time": "2026-09-15 00:09",
-      "heat": 4129,
+      "time": "2026-09-15 10:26",
+      "heat": 4131,
       "discussions": "149",
       "tags": [
         "税务",
@@ -406,8 +252,8 @@
       "platform_class": "platform-bilibili",
       "author": "斯尔教育",
       "url": "http://www.bilibili.com/video/av1404340137",
-      "time": "2026-09-15 00:09",
-      "heat": 3952,
+      "time": "2026-09-15 10:26",
+      "heat": 3956,
       "discussions": "40",
       "tags": [
         "税收",
@@ -417,66 +263,6 @@
       "detail": "<p>2026中级经济师专题精讲班开课啦!\n经济基础知识：https://www.bilibili.com/video/BV1uf421z7nw/\n人力资源：https://www.bilibili.com/video/BV1ez421m7wh/\n工商管理：https://www.bilibili.com/video/BV1RJ4m1P7v6/</p>"
     },
     {
-      "id": "21f397696d51",
-      "title": "拜托了老司机：新能源卖不掉了开始收车船税？开界车无隐私？",
-      "summary": "-",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "爆炒吗喽",
-      "url": "http://www.bilibili.com/video/av116888004723684",
-      "time": "2026-09-15 00:09",
-      "heat": 3793,
-      "discussions": "140",
-      "tags": [],
-      "isHot": false,
-      "detail": "<p>-</p>"
-    },
-    {
-      "id": "7e2cf818d491",
-      "title": "车险续保中的“车船税”陷阱，小心别掉进去",
-      "summary": "-",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "俊哥说保",
-      "url": "http://www.bilibili.com/video/av237999450",
-      "time": "2026-09-15 00:09",
-      "heat": 3766,
-      "discussions": "94",
-      "tags": [],
-      "isHot": false,
-      "detail": "<p>-</p>"
-    },
-    {
-      "id": "43ed48aa274e",
-      "title": "拜托了老司机：5年后国内车企还能剩多少家？",
-      "summary": "-",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "爆炒吗喽",
-      "url": "http://www.bilibili.com/video/av117205681310841",
-      "time": "2026-09-15 00:09",
-      "heat": 3410,
-      "discussions": "185",
-      "tags": [],
-      "isHot": false,
-      "detail": "<p>-</p>"
-    },
-    {
-      "id": "f6c658740de3",
-      "title": "2027插混要交税了？正经迪吹：闪充时代已到，别再因为里程焦虑买插混！",
-      "summary": "正经迪吹主页，多多关注！：https://space.bilibili.com/1223821025",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "爱看热闹的四蛋",
-      "url": "http://www.bilibili.com/video/av116862100772740",
-      "time": "2026-09-15 00:09",
-      "heat": 2993,
-      "discussions": "98",
-      "tags": [],
-      "isHot": false,
-      "detail": "<p>正经迪吹主页，多多关注！：https://space.bilibili.com/1223821025</p>"
-    },
-    {
       "id": "7c9b63aa777d",
       "title": "用香蕉给你解释什么是税收",
       "summary": "你知道吗？我们辛苦赚来的钱，总有一部分会以“税”的形式交给“猴政府”。但这笔钱到底拿去干嘛了？买房看病退休金，原来都靠它！视频用最有趣的“猴子打工”比喻，带你秒懂各种税是啥、怎么算。还会揭秘富人常用的合法避税方法，以及万一不交税会有多可怕的后果！看完这集，让你对税不再一头雾水！",
@@ -484,7 +270,7 @@
       "platform_class": "platform-bilibili",
       "author": "TED官方精选",
       "url": "http://www.bilibili.com/video/av115101466105543",
-      "time": "2026-09-15 00:09",
+      "time": "2026-09-15 10:26",
       "heat": 2953,
       "discussions": "33",
       "tags": [
@@ -495,36 +281,6 @@
       "detail": "<p>你知道吗？我们辛苦赚来的钱，总有一部分会以“税”的形式交给“猴政府”。但这笔钱到底拿去干嘛了？买房看病退休金，原来都靠它！视频用最有趣的“猴子打工”比喻，带你秒懂各种税是啥、怎么算。还会揭秘富人常用的合法避税方法，以及万一不交税会有多可怕的后果！看完这集，让你对税不再一头雾水！</p>"
     },
     {
-      "id": "8e3648a8c518",
-      "title": "央视权威报道：新能源车购置税减免新规定！关注中国国际汽车改装博览会，了解更多汽车行业资讯！",
-      "summary": "-",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "中国汽车改装博览会",
-      "url": "http://www.bilibili.com/video/av117245460089063",
-      "time": "2026-09-15 00:09",
-      "heat": 2881,
-      "discussions": "9",
-      "tags": [],
-      "isHot": false,
-      "detail": "<p>-</p>"
-    },
-    {
-      "id": "15dbf537d3f7",
-      "title": "车船税15年来首次重大调整！对家庭用车有影响吗？",
-      "summary": "车船税15年来首次重大调整！对家庭用车有影响吗？",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "环球网",
-      "url": "http://www.bilibili.com/video/av116864952834025",
-      "time": "2026-09-15 00:09",
-      "heat": 2318,
-      "discussions": "31",
-      "tags": [],
-      "isHot": false,
-      "detail": "<p>车船税15年来首次重大调整！对家庭用车有影响吗？</p>"
-    },
-    {
       "id": "d548e40a95f4",
       "title": "开区一个月达到一天税收100w",
       "summary": "视频中介绍了如何快速起分城，每天100w税收一个月下来也有不少四星武将(120个左右)，这样子对于平民来说有着更高收益",
@@ -532,7 +288,7 @@
       "platform_class": "platform-bilibili",
       "author": "超级星小汤",
       "url": "http://www.bilibili.com/video/av897635927",
-      "time": "2026-09-15 00:09",
+      "time": "2026-09-15 10:26",
       "heat": 1293,
       "discussions": "39",
       "tags": [
@@ -542,64 +298,41 @@
       "detail": "<p>视频中介绍了如何快速起分城，每天100w税收一个月下来也有不少四星武将(120个左右)，这样子对于平民来说有着更高收益</p>"
     },
     {
-      "id": "daa0bd1ca741",
-      "title": "轮到油车党狂喜？电车车船税迎来史诗级更新！",
-      "summary": "明年开始，电车也要征收车船税，以后开电车还省钱吗？",
+      "id": "5a7e2425be6b",
+      "title": "2026中级经济师-2026经济师-财政税收专业知识与实务-中级经济师财政税收【中级经济师】【财政税收】",
+      "summary": "2026中级经济师-2026经济师-财政税收专业知识与实务-中级经济师财政税收【中级经济师】【财政税收】",
       "source": "B站",
       "platform_class": "platform-bilibili",
-      "author": "歪小蜥",
-      "url": "http://www.bilibili.com/video/av117041549809915",
-      "time": "2026-09-15 00:09",
-      "heat": 1018,
-      "discussions": "63",
-      "tags": [],
+      "author": "2026中级经济师",
+      "url": "http://www.bilibili.com/video/av117014320452940",
+      "time": "2026-09-15 10:26",
+      "heat": 1191,
+      "discussions": "14",
+      "tags": [
+        "税收",
+        "财政"
+      ],
       "isHot": false,
-      "detail": "<p>明年开始，电车也要征收车船税，以后开电车还省钱吗？</p>"
+      "detail": "<p>2026中级经济师-2026经济师-财政税收专业知识与实务-中级经济师财政税收【中级经济师】【财政税收】</p>"
     },
     {
-      "id": "660cbebb1c5a",
-      "title": "增程插混开始征收车船税",
-      "summary": "增程插混开始征收车船税",
+      "id": "a6163da9f351",
+      "title": "2026增值税法元年，哪些进项不得抵扣？听完懂了！",
+      "summary": "2026增值税法元年，哪些进项不得抵扣？听完懂了！",
       "source": "B站",
       "platform_class": "platform-bilibili",
-      "author": "龟速车评",
-      "url": "http://www.bilibili.com/video/av116877921689110",
-      "time": "2026-09-15 00:09",
-      "heat": 932,
-      "discussions": "45",
-      "tags": [],
+      "author": "之了课堂注册会计师",
+      "url": "http://www.bilibili.com/video/av116062381152018",
+      "time": "2026-09-15 10:26",
+      "heat": 668,
+      "discussions": "5",
+      "tags": [
+        "增值税",
+        "税法",
+        "进项"
+      ],
       "isHot": false,
-      "detail": "<p>增程插混开始征收车船税</p>"
-    },
-    {
-      "id": "18652f1dc3d4",
-      "title": "一年车船税够在村里租个房子住一年",
-      "summary": "-",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "追巴士的人bus_runner",
-      "url": "http://www.bilibili.com/video/av116481928987828",
-      "time": "2026-09-15 00:09",
-      "heat": 653,
-      "discussions": "28",
-      "tags": [],
-      "isHot": false,
-      "detail": "<p>-</p>"
-    },
-    {
-      "id": "0a89b031799f",
-      "title": "第2集《平陆运河》纪录片《挑战极限》难度、原理、过程，多项创新建造。大国工程。2026年9月13日央视播出。",
-      "summary": "-",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "科技实现宇宙共产大同",
-      "url": "http://www.bilibili.com/video/av117262103087043",
-      "time": "2026-09-15 00:09",
-      "heat": 527,
-      "discussions": "15",
-      "tags": [],
-      "isHot": false,
-      "detail": "<p>-</p>"
+      "detail": "<p>2026增值税法元年，哪些进项不得抵扣？听完懂了！</p>"
     },
     {
       "id": "3cc006ce870f",
@@ -609,7 +342,7 @@
       "platform_class": "platform-bilibili",
       "author": "猪仔包pigbao",
       "url": "http://www.bilibili.com/video/av432754298",
-      "time": "2026-09-15 00:09",
+      "time": "2026-09-15 10:26",
       "heat": 454,
       "discussions": "19",
       "tags": [
@@ -619,51 +352,19 @@
       "detail": "<p>00061国家税收：第一章税收的定义、本质及特征</p>"
     },
     {
-      "id": "6586fc07abce",
-      "title": "车船税新政，2026.1.1号开始执行",
-      "summary": "2026车船税1月1日执行，燃油车7档计税，新能源车免税有3到门槛",
+      "id": "88faed755209",
+      "title": "财税 【2026年】第25号文件解读",
+      "summary": "财税 【2026年】第25号文件解读",
       "source": "B站",
       "platform_class": "platform-bilibili",
-      "author": "优视汽车",
-      "url": "http://www.bilibili.com/video/av115654057270949",
-      "time": "2026-09-15 00:09",
+      "author": "财法价值圈",
+      "url": "http://www.bilibili.com/video/av117177680266670",
+      "time": "2026-09-15 10:26",
       "heat": 454,
-      "discussions": "8",
-      "tags": [
-        "免税"
-      ],
-      "isHot": false,
-      "detail": "<p>2026车船税1月1日执行，燃油车7档计税，新能源车免税有3到门槛</p>"
-    },
-    {
-      "id": "0da656c4a326",
-      "title": "插混和增程明年将收车船税，比亚迪不怕，哪家车企最难受？",
-      "summary": "网上热议的插混和增程天要塌了，不可能的？",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "路咖汽车",
-      "url": "http://www.bilibili.com/video/av116872250989924",
-      "time": "2026-09-15 00:09",
-      "heat": 369,
-      "discussions": "31",
+      "discussions": "1",
       "tags": [],
       "isHot": false,
-      "detail": "<p>网上热议的插混和增程天要塌了，不可能的？</p>"
-    },
-    {
-      "id": "5218806091e5",
-      "title": "2026车船税新规解读！想省钱看这两点",
-      "summary": "-",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "车圈孙行者",
-      "url": "http://www.bilibili.com/video/av115738396333111",
-      "time": "2026-09-15 00:09",
-      "heat": 283,
-      "discussions": "3",
-      "tags": [],
-      "isHot": false,
-      "detail": "<p>-</p>"
+      "detail": "<p>财税 【2026年】第25号文件解读</p>"
     },
     {
       "id": "0a101bd28722",
@@ -673,8 +374,8 @@
       "platform_class": "platform-bilibili",
       "author": "懂点税",
       "url": "http://www.bilibili.com/video/av117240359820561",
-      "time": "2026-09-15 00:09",
-      "heat": 274,
+      "time": "2026-09-15 10:26",
+      "heat": 284,
       "discussions": "12",
       "tags": [
         "增值税",
@@ -685,6 +386,21 @@
       "detail": "<p>盘点近期税收新规①地方附加税；②非应税交易；③上市公司限售股；④外籍个人股息红利；⑤代扣代缴自然人增值税；⑥完善商品住房现房销售；⑦对电池产品分步征收消费税；⑧征管法修订草案地方地方附加税地方附加税附加税</p>"
     },
     {
+      "id": "29fcda9220c9",
+      "title": "【2026新教材解读】孙孝群：财税：2026新教材解析直播",
+      "summary": "大家好，2026 中经财税，新教材变动，来啦！\n此为合集，可按顺序观看~课程持续更新中\n点赞、投币、评论、关注，后台私信领专属学习包、讲义等。\n完整全套精讲课程，请看此视频评论区置顶蓝字。祝大家逢考必过！",
+      "source": "B站",
+      "platform_class": "platform-bilibili",
+      "author": "环球网校",
+      "url": "http://www.bilibili.com/video/av116882183034298",
+      "time": "2026-09-15 10:26",
+      "heat": 261,
+      "discussions": "24",
+      "tags": [],
+      "isHot": false,
+      "detail": "<p>大家好，2026 中经财税，新教材变动，来啦！\n此为合集，可按顺序观看~课程持续更新中\n点赞、投币、评论、关注，后台私信领专属学习包、讲义等。\n完整全套精讲课程，请看此视频评论区置顶蓝字。祝大家逢考必过！</p>"
+    },
+    {
       "id": "bc656f7a3fa5",
       "title": "东北财经大学税务专硕433中国税收第十版课程",
       "summary": "黄老师，副教授，高级经济师，资产评估师，税务师，中级会计师，高校从教9年，主讲税务。主要承担本科税务试卷出题、批阅、题库建设。授课经验丰富，讲授东财初复试税务专硕6年。声音洪亮，重难点分明，授课学生无数，初试学生专业课成为学生优势学科。\n2021级复试学生全部逆袭上岸。其中，王X承，张X琪，汪X伶上岸考生逆袭名次19名、16名、12名不等。22级初试成绩平均分120左右，复试考生张*星成绩逆袭22",
@@ -692,7 +408,7 @@
       "platform_class": "platform-bilibili",
       "author": "东财考研加油站",
       "url": "http://www.bilibili.com/video/av869103908",
-      "time": "2026-09-15 00:09",
+      "time": "2026-09-15 10:26",
       "heat": 260,
       "discussions": "9",
       "tags": [
@@ -704,36 +420,22 @@
       "detail": "<p>黄老师，副教授，高级经济师，资产评估师，税务师，中级会计师，高校从教9年，主讲税务。主要承担本科税务试卷出题、批阅、题库建设。授课经验丰富，讲授东财初复试税务专硕6年。声音洪亮，重难点分明，授课学生无数，初试学生专业课成为学生优势学科。\n2021级复试学生全部逆袭上岸。其中，王X承，张X琪，汪X伶上岸考生逆袭名次19名、16名、12名不等。22级初试成绩平均分120左右，复试考生张*星成绩逆袭22</p>"
     },
     {
-      "id": "34b0104b4d83",
-      "title": "北哥:2027车船税新政落地：插混每年多花三四百纯电无忧，老车主也跑不掉赶紧看明细",
-      "summary": "-",
+      "id": "8b849727c137",
+      "title": "中微公司7名高管拟减持计划落地，6人实施减持合计套现约1.1亿元，82岁董事长尹志尧套现5371万元，年初曾因恢复中国籍相关税务需求套现超7200万",
+      "summary": "中微公司7名高管拟减持计划落地，6人实施减持合计套现约1.1亿元，82岁董事长尹志尧套现5371万元，年初曾因恢复中国籍相关税务需求套现超7200万",
       "source": "B站",
       "platform_class": "platform-bilibili",
-      "author": "北哥一路向北",
-      "url": "http://www.bilibili.com/video/av117001569763555",
-      "time": "2026-09-15 00:09",
-      "heat": 240,
-      "discussions": "5",
-      "tags": [],
-      "isHot": false,
-      "detail": "<p>-</p>"
-    },
-    {
-      "id": "f5b1d6949cbb",
-      "title": "00061国家税收：第三章税收的职能和作用",
-      "summary": "00061国家税收：第三章税收的职能和作用",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "猪仔包pigbao",
-      "url": "http://www.bilibili.com/video/av390342133",
-      "time": "2026-09-15 00:09",
-      "heat": 206,
-      "discussions": "2",
+      "author": "红星资本局",
+      "url": "http://www.bilibili.com/video/av117262908393270",
+      "time": "2026-09-15 10:26",
+      "heat": 193,
+      "discussions": "1",
       "tags": [
-        "税收"
+        "关税",
+        "税务"
       ],
       "isHot": false,
-      "detail": "<p>00061国家税收：第三章税收的职能和作用</p>"
+      "detail": "<p>中微公司7名高管拟减持计划落地，6人实施减持合计套现约1.1亿元，82岁董事长尹志尧套现5371万元，年初曾因恢复中国籍相关税务需求套现超7200万</p>"
     },
     {
       "id": "66359d6a7123",
@@ -743,8 +445,8 @@
       "platform_class": "platform-bilibili",
       "author": "粉笔网",
       "url": "http://www.bilibili.com/video/av117246013807406",
-      "time": "2026-09-15 00:09",
-      "heat": 162,
+      "time": "2026-09-15 10:26",
+      "heat": 178,
       "discussions": "4",
       "tags": [
         "税务",
@@ -761,8 +463,8 @@
       "platform_class": "platform-bilibili",
       "author": "陪你学碎法",
       "url": "http://www.bilibili.com/video/av117080020030552",
-      "time": "2026-09-15 00:09",
-      "heat": 151,
+      "time": "2026-09-15 10:26",
+      "heat": 152,
       "discussions": "7",
       "tags": [
         "税收",
@@ -772,69 +474,55 @@
       "detail": "<p>税务专硕开放型论述题如何作答？个人经验分享</p>"
     },
     {
-      "id": "194c7d8238b5",
-      "title": "6.5.1车船税法律制度（1）",
-      "summary": "最新会计职称考试《经济法基础》高频考点分享与经典例题解析，为了帮助广大考生高效备考，高顿老师手把手带你突破难关，快学起来吧！",
+      "id": "539fea3bccfe",
+      "title": "9月14日 大摩宏观策略谈：科技叙事遭遇地产与税收现实",
+      "summary": "9月14日 大摩宏观策略谈：科技叙事遭遇地产与税收现实",
       "source": "B站",
       "platform_class": "platform-bilibili",
-      "author": "高顿教育",
-      "url": "http://www.bilibili.com/video/av200158167",
-      "time": "2026-09-15 00:09",
-      "heat": 151,
+      "author": "Winton的财经视野",
+      "url": "http://www.bilibili.com/video/av117269619350341",
+      "time": "2026-09-15 10:26",
+      "heat": 142,
+      "discussions": "2",
+      "tags": [
+        "税收"
+      ],
+      "isHot": false,
+      "detail": "<p>9月14日 大摩宏观策略谈：科技叙事遭遇地产与税收现实</p>"
+    },
+    {
+      "id": "e04a3c063e3b",
+      "title": "2026中级经济师：财税：新教材精讲班完整版有讲义",
+      "summary": "同学们!一定要帮我点个三连呀!需要课程配套的讲义、同款的课程PPT、以及题库app等资\n\n料的可以直接评论\n\n联系:408124866",
+      "source": "B站",
+      "platform_class": "platform-bilibili",
+      "author": "课件讲义818",
+      "url": "http://www.bilibili.com/video/av117131509304265",
+      "time": "2026-09-15 10:26",
+      "heat": 106,
       "discussions": "0",
-      "tags": [
-        "税法",
-        "会计"
-      ],
+      "tags": [],
       "isHot": false,
-      "detail": "<p>最新会计职称考试《经济法基础》高频考点分享与经典例题解析，为了帮助广大考生高效备考，高顿老师手把手带你突破难关，快学起来吧！</p>"
+      "detail": "<p>同学们!一定要帮我点个三连呀!需要课程配套的讲义、同款的课程PPT、以及题库app等资\n\n料的可以直接评论\n\n联系:408124866</p>"
     },
     {
-      "id": "ead19f177d73",
-      "title": "税务系列第八集：车船税政策",
-      "summary": "一分钟带您了解【禹羿动漫】\n●禹羿动漫成立于2016年8月，主营精打动漫（动画、漫画）创意设计与制作的特色业务。\n●禹羿动漫从高层管理者到各工种设计师，均为动漫行业专业人才且资历深厚。\n●截止目前，禹羿动漫共产出近1000部作品案例，累计时已达3000分钟。\n●截止目前，凡客户在禹羿动漫定制的参赛属性作品，均荣获国家、省市级大奖。\n●截止目前，禹羿动漫动画定制业务面已辐射到全国多地的政企、工厂与行",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "禹羿动漫",
-      "url": "http://www.bilibili.com/video/av113162993147874",
-      "time": "2026-09-15 00:09",
-      "heat": 136,
-      "discussions": "1",
-      "tags": [
-        "税务"
-      ],
-      "isHot": false,
-      "detail": "<p>一分钟带您了解【禹羿动漫】\n●禹羿动漫成立于2016年8月，主营精打动漫（动画、漫画）创意设计与制作的特色业务。\n●禹羿动漫从高层管理者到各工种设计师，均为动漫行业专业人才且资历深厚。\n●截止目前，禹羿动漫共产出近1000部作品案例，累计时已达3000分钟。\n●截止目前，凡客户在禹羿动漫定制的参赛属性作品，均荣获国家、省市级大奖。\n●截止目前，禹羿动漫动画定制业务面已辐射到全国多地的政企、工厂与行</p>"
-    },
-    {
-      "id": "b3980f133ab0",
-      "title": "考呀呀｜第六章 知识点9 车船税",
+      "id": "1fae07b4e4fd",
+      "title": "2026年7月起增值税申报表大变，5省市已率先试点，一般纳税人小规模纳税人合用一张表！#增值税申报表大改 #财务人必看 #财税新规2026 #电商财税",
       "summary": "-",
       "source": "B站",
       "platform_class": "platform-bilibili",
-      "author": "糖糖ttsw",
-      "url": "http://www.bilibili.com/video/av112914337891365",
-      "time": "2026-09-15 00:09",
-      "heat": 114,
+      "author": "中税企",
+      "url": "http://www.bilibili.com/video/av117050995383854",
+      "time": "2026-09-15 10:26",
+      "heat": 101,
       "discussions": "0",
-      "tags": [],
+      "tags": [
+        "增值税",
+        "纳税",
+        "小规模纳税人"
+      ],
       "isHot": false,
       "detail": "<p>-</p>"
-    },
-    {
-      "id": "423574248124",
-      "title": "新能源车船税新规来啦！哪些车要交钱？",
-      "summary": "新能源车船税新规来啦！哪些车要交钱？",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "雷同学Ray",
-      "url": "http://www.bilibili.com/video/av116861714833120",
-      "time": "2026-09-15 00:09",
-      "heat": 87,
-      "discussions": "0",
-      "tags": [],
-      "isHot": false,
-      "detail": "<p>新能源车船税新规来啦！哪些车要交钱？</p>"
     },
     {
       "id": "f27bb67734c5",
@@ -844,9 +532,9 @@
       "platform_class": "platform-bilibili",
       "author": "包衣无善终",
       "url": "http://www.bilibili.com/video/av117268629555127",
-      "time": "2026-09-15 00:09",
-      "heat": 71,
-      "discussions": "5",
+      "time": "2026-09-15 10:26",
+      "heat": 80,
+      "discussions": "7",
       "tags": [
         "税收",
         "免税"
@@ -862,8 +550,8 @@
       "platform_class": "platform-bilibili",
       "author": "伶俐虫考证",
       "url": "http://www.bilibili.com/video/av117243799148791",
-      "time": "2026-09-15 00:09",
-      "heat": 71,
+      "time": "2026-09-15 10:26",
+      "heat": 73,
       "discussions": "1",
       "tags": [
         "税务",
@@ -873,57 +561,36 @@
       "detail": "<p>2026注册税务师-税二杨军-基础精讲班(有讲义)</p>"
     },
     {
-      "id": "19b23a911064",
-      "title": "正经迪吹聊插混车船税，插混是收的。220公里版本快慢充时间他说了，明年改款得涨价，新车也排上",
-      "summary": "正经迪吹主页，多多关注！：https://space.bilibili.com/1223821025",
+      "id": "8b6d9e5cc986",
+      "title": "2026中级经济师中经财税：新教材精讲班完整版有讲义",
+      "summary": "同学们!一定要帮我点个三连呀!需要课程配套的讲义、同款的课程PPT、以及题库app等资\n\n料的可以直接评论\n\n联系:408124866",
       "source": "B站",
       "platform_class": "platform-bilibili",
-      "author": "爱看热闹的四蛋",
-      "url": "http://www.bilibili.com/video/av117258026288569",
-      "time": "2026-09-15 00:09",
-      "heat": 67,
-      "discussions": "0",
+      "author": "精品资料讲义118",
+      "url": "http://www.bilibili.com/video/av117239973944115",
+      "time": "2026-09-15 10:26",
+      "heat": 53,
+      "discussions": "1",
       "tags": [],
       "isHot": false,
-      "detail": "<p>正经迪吹主页，多多关注！：https://space.bilibili.com/1223821025</p>"
+      "detail": "<p>同学们!一定要帮我点个三连呀!需要课程配套的讲义、同款的课程PPT、以及题库app等资\n\n料的可以直接评论\n\n联系:408124866</p>"
     },
     {
-      "id": "4f6ec56ac215",
-      "title": "第16课车辆购置税车船税纳税申报全解析",
-      "summary": "第16课车辆购置税车船税纳税申报全解析",
+      "id": "cd1acd2d359f",
+      "title": "2026—2028 税务强基三年攻坚",
+      "summary": "2026—2028 税务强基三年攻坚",
       "source": "B站",
       "platform_class": "platform-bilibili",
-      "author": "跨境税务TP",
-      "url": "http://www.bilibili.com/video/av113445252895216",
-      "time": "2026-09-15 00:09",
-      "heat": 60,
+      "author": "税务律师李芳",
+      "url": "http://www.bilibili.com/video/av117240259288538",
+      "time": "2026-09-15 10:26",
+      "heat": 53,
       "discussions": "0",
       "tags": [
-        "车辆购置税",
-        "纳税",
-        "纳税申报"
+        "税务"
       ],
       "isHot": false,
-      "detail": "<p>第16课车辆购置税车船税纳税申报全解析</p>"
-    },
-    {
-      "id": "28b5d72d2fb3",
-      "title": "一项税收优惠的“毕业礼”：从车船税调整看中国汽车社会的转型阵痛",
-      "summary": "2026年7月2日，三部门联合公告，2027年起取消部分新能源车船税优惠。\n一台纯电轻卡一年多交432块，华泰证券测算“对需求影响有限”。但为什么整个行业都在震动？\n这是一期从头到尾、不拆分的完整深度分析。我们从最简单的成本计算开始，一步步追问下去——保险市场的结构性失灵、货运行业的系统性承压、税收公平的法理重构、产业内部的剧烈分化、二手车市场的连锁冲击，以及最终波及每一个普通人的社会经济涟漪。\n",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "大隐观潭",
-      "url": "http://www.bilibili.com/video/av116878877923103",
-      "time": "2026-09-15 00:09",
-      "heat": 52,
-      "discussions": "0",
-      "tags": [
-        "税收",
-        "税务",
-        "税收优惠"
-      ],
-      "isHot": false,
-      "detail": "<p>2026年7月2日，三部门联合公告，2027年起取消部分新能源车船税优惠。\n一台纯电轻卡一年多交432块，华泰证券测算“对需求影响有限”。但为什么整个行业都在震动？\n这是一期从头到尾、不拆分的完整深度分析。我们从最简单的成本计算开始，一步步追问下去——保险市场的结构性失灵、货运行业的系统性承压、税收公平的法理重构、产业内部的剧烈分化、二手车市场的连锁冲击，以及最终波及每一个普通人的社会经济涟漪。\n</p>"
+      "detail": "<p>2026—2028 税务强基三年攻坚</p>"
     },
     {
       "id": "2ffbf32807de",
@@ -933,7 +600,7 @@
       "platform_class": "platform-bilibili",
       "author": "中大英才",
       "url": "http://www.bilibili.com/video/av117245510557012",
-      "time": "2026-09-15 00:09",
+      "time": "2026-09-15 10:26",
       "heat": 42,
       "discussions": "1",
       "tags": [
@@ -944,36 +611,22 @@
       "detail": "<p>中大网校【经济师】课程免费提供，有讲义厚台思思！</p>"
     },
     {
-      "id": "cd1acd2d359f",
-      "title": "2026—2028 税务强基三年攻坚",
-      "summary": "2026—2028 税务强基三年攻坚",
+      "id": "6c36f8889188",
+      "title": "25号公告解读！可抵扣和不得抵扣非应税交易终于有答案！#9月开始，无偿服务不视同销售，进项税还可抵扣？#股权转让及股息红利#新法落地6种情况进项可以抵4种不能抵",
+      "summary": "-",
       "source": "B站",
       "platform_class": "platform-bilibili",
-      "author": "税务律师李芳",
-      "url": "http://www.bilibili.com/video/av117240259288538",
-      "time": "2026-09-15 00:09",
-      "heat": 41,
-      "discussions": "0",
-      "tags": [
-        "税务"
-      ],
-      "isHot": false,
-      "detail": "<p>2026—2028 税务强基三年攻坚</p>"
-    },
-    {
-      "id": "e5092e201684",
-      "title": "2027年起这些电车每年多花几百！车船税新政全解读，买车前必看",
-      "summary": "2027年起这些电车每年多花几百！车船税新政全解读，买车前必看",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "请你喝杯茶哦",
-      "url": "http://www.bilibili.com/video/av116877586143019",
-      "time": "2026-09-15 00:09",
+      "author": "中税企",
+      "url": "http://www.bilibili.com/video/av117183552167358",
+      "time": "2026-09-15 10:26",
       "heat": 40,
       "discussions": "0",
-      "tags": [],
+      "tags": [
+        "进项",
+        "抵扣"
+      ],
       "isHot": false,
-      "detail": "<p>2027年起这些电车每年多花几百！车船税新政全解读，买车前必看</p>"
+      "detail": "<p>-</p>"
     },
     {
       "id": "cb66fd771b86",
@@ -983,7 +636,7 @@
       "platform_class": "platform-bilibili",
       "author": "SLG-欧皇夏老大",
       "url": "http://www.bilibili.com/video/av117145635656918",
-      "time": "2026-09-15 00:09",
+      "time": "2026-09-15 10:26",
       "heat": 39,
       "discussions": "0",
       "tags": [
@@ -1000,8 +653,8 @@
       "platform_class": "platform-bilibili",
       "author": "课件讲义818",
       "url": "http://www.bilibili.com/video/av117245795698819",
-      "time": "2026-09-15 00:09",
-      "heat": 37,
+      "time": "2026-09-15 10:26",
+      "heat": 39,
       "discussions": "0",
       "tags": [
         "税务",
@@ -1011,53 +664,6 @@
       "detail": "<p>同学们!一定要帮我点个三连呀!需要课程配套的讲义、同款的课程PPT、以及题库app等资\n\n料的可以直接评论\n\n联系:408124866</p>"
     },
     {
-      "id": "5c331cf6b845",
-      "title": "新能源取消车船税对我们日常的用车成本有何影响",
-      "summary": "-",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "会AI的和菜头",
-      "url": "http://www.bilibili.com/video/av116904865827624",
-      "time": "2026-09-15 00:09",
-      "heat": 35,
-      "discussions": "0",
-      "tags": [],
-      "isHot": false,
-      "detail": "<p>-</p>"
-    },
-    {
-      "id": "cf5ec98a33d2",
-      "title": "稽查组来了一个月，账也调了人也问了，就是不见结案——要不要去催？千万别！#税务#税务稽查",
-      "summary": "稽查组来了一个月，账也调了人也问了，就是不见结案——要不要去催？千万别！",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "钰姐聊财税",
-      "url": "http://www.bilibili.com/video/av117266817484198",
-      "time": "2026-09-15 00:09",
-      "heat": 33,
-      "discussions": "0",
-      "tags": [
-        "税务"
-      ],
-      "isHot": false,
-      "detail": "<p>稽查组来了一个月，账也调了人也问了，就是不见结案——要不要去催？千万别！</p>"
-    },
-    {
-      "id": "22678fad96e2",
-      "title": "车船税的申报",
-      "summary": "-",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "雨竹财税",
-      "url": "http://www.bilibili.com/video/av115989735806419",
-      "time": "2026-09-15 00:09",
-      "heat": 31,
-      "discussions": "0",
-      "tags": [],
-      "isHot": false,
-      "detail": "<p>-</p>"
-    },
-    {
       "id": "d4eb47e04c01",
       "title": "2026注册税务师-税一葛瑞-基础精讲班(有讲义)",
       "summary": "2026注册税务师-税一葛瑞-基础精讲班(有讲义)",
@@ -1065,8 +671,8 @@
       "platform_class": "platform-bilibili",
       "author": "把馒头就酒",
       "url": "http://www.bilibili.com/video/av117266817489634",
-      "time": "2026-09-15 00:09",
-      "heat": 26,
+      "time": "2026-09-15 10:26",
+      "heat": 34,
       "discussions": "0",
       "tags": [
         "税务",
@@ -1076,6 +682,23 @@
       "detail": "<p>2026注册税务师-税一葛瑞-基础精讲班(有讲义)</p>"
     },
     {
+      "id": "cf5ec98a33d2",
+      "title": "稽查组来了一个月，账也调了人也问了，就是不见结案——要不要去催？千万别！#税务#税务稽查",
+      "summary": "稽查组来了一个月，账也调了人也问了，就是不见结案——要不要去催？千万别！",
+      "source": "B站",
+      "platform_class": "platform-bilibili",
+      "author": "钰姐聊财税",
+      "url": "http://www.bilibili.com/video/av117266817484198",
+      "time": "2026-09-15 10:26",
+      "heat": 33,
+      "discussions": "0",
+      "tags": [
+        "税务"
+      ],
+      "isHot": false,
+      "detail": "<p>稽查组来了一个月，账也调了人也问了，就是不见结案——要不要去催？千万别！</p>"
+    },
+    {
       "id": "7d4a237e995b",
       "title": "2026税务师-税务师考试-【税法一】B站最全视频和讲义|税务师笔试",
       "summary": "关注呦 持续更新 补档留言",
@@ -1083,8 +706,8 @@
       "platform_class": "platform-bilibili",
       "author": "羿过小叶子",
       "url": "http://www.bilibili.com/video/av117267740231664",
-      "time": "2026-09-15 00:09",
-      "heat": 25,
+      "time": "2026-09-15 10:26",
+      "heat": 31,
       "discussions": "2",
       "tags": [
         "税务",
@@ -1095,72 +718,23 @@
       "detail": "<p>关注呦 持续更新 补档留言</p>"
     },
     {
-      "id": "a0a87bd70347",
-      "title": "新能源车船税2027年取消，实施15年的特权开始退场",
-      "summary": "被政策奶了15年的新能源车，终于要断奶了。财政部等三部门宣布，2027年1月1日起，取消对节能汽车减半征收车船税政策，取消对纯电动商用车、插电式（含增程式）混合动力汽车、燃料电池商用车免征车船税政策。对于纯电动乘用车、燃料电池乘用车这两类车型，因为没有排气量，不属于车船税法规定的征税范围，不受此次政策调整的影响，仍不征收车船税。",
+      "id": "6b6937702c3a",
+      "title": "9月1日中国财政部税务政策公告，外籍个人股息红利个税新规落地：20%税率、代扣代缴明确，海外家族财富与跨境持股安排需调整了",
+      "summary": "9月1日中国财政部税务政策公告，外籍个人股息红利个税新规落地：20%税率、代扣代缴明确，海外家族财富与跨境持股安排需调整了",
       "source": "B站",
       "platform_class": "platform-bilibili",
-      "author": "阿毛说车",
-      "url": "http://www.bilibili.com/video/av116990731618162",
-      "time": "2026-09-15 00:09",
-      "heat": 20,
+      "author": "爱打劫的警长",
+      "url": "http://www.bilibili.com/video/av117268445072496",
+      "time": "2026-09-15 10:26",
+      "heat": 13,
       "discussions": "1",
       "tags": [
-        "税法",
-        "财政",
-        "财政部"
-      ],
-      "isHot": false,
-      "detail": "<p>被政策奶了15年的新能源车，终于要断奶了。财政部等三部门宣布，2027年1月1日起，取消对节能汽车减半征收车船税政策，取消对纯电动商用车、插电式（含增程式）混合动力汽车、燃料电池商用车免征车船税政策。对于纯电动乘用车、燃料电池乘用车这两类车型，因为没有排气量，不属于车船税法规定的征税范围，不受此次政策调整的影响，仍不征收车船税。</p>"
-    },
-    {
-      "id": "effc32abcbbf",
-      "title": "车船税01-概念/征税范围/计税依据【2026税务师考试】",
-      "summary": "本节的重点在于车船税的税目税额表，超级重要啊！一张表涵盖了税目、计税依据、税率、注意事项，配合讲解十分清晰。宝子们，点赞收藏，一键三连哦~",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "陈述法理",
-      "url": "http://www.bilibili.com/video/av117003532767676",
-      "time": "2026-09-15 00:09",
-      "heat": 14,
-      "discussions": "0",
-      "tags": [
+        "个税",
         "税务",
-        "税率",
-        "税务师"
+        "税率"
       ],
       "isHot": false,
-      "detail": "<p>本节的重点在于车船税的税目税额表，超级重要啊！一张表涵盖了税目、计税依据、税率、注意事项，配合讲解十分清晰。宝子们，点赞收藏，一键三连哦~</p>"
-    },
-    {
-      "id": "4722c4d4afde",
-      "title": "新规速递丨车主注意！车船税新规来了",
-      "summary": "新规速递丨车主注意！车船税新规来了",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "财税金幕府",
-      "url": "http://www.bilibili.com/video/av116876009080429",
-      "time": "2026-09-15 00:09",
-      "heat": 13,
-      "discussions": "0",
-      "tags": [],
-      "isHot": false,
-      "detail": "<p>新规速递丨车主注意！车船税新规来了</p>"
-    },
-    {
-      "id": "ec5242a9c349",
-      "title": "三部门宣布2027年起取消新能源车船税优惠—15年政策退出",
-      "summary": "三部门宣布2027年起取消新能源车船税优惠—15年政策退出",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "阿台硅基观察社",
-      "url": "http://www.bilibili.com/video/av116860574107824",
-      "time": "2026-09-15 00:09",
-      "heat": 10,
-      "discussions": "0",
-      "tags": [],
-      "isHot": false,
-      "detail": "<p>三部门宣布2027年起取消新能源车船税优惠—15年政策退出</p>"
+      "detail": "<p>9月1日中国财政部税务政策公告，外籍个人股息红利个税新规落地：20%税率、代扣代缴明确，海外家族财富与跨境持股安排需调整了</p>"
     },
     {
       "id": "6c26ec8550c3",
@@ -1170,8 +744,8 @@
       "platform_class": "platform-bilibili",
       "author": "备考摆渡人",
       "url": "http://www.bilibili.com/video/av117266985260831",
-      "time": "2026-09-15 00:09",
-      "heat": 7,
+      "time": "2026-09-15 10:26",
+      "heat": 9,
       "discussions": "2",
       "tags": [
         "税收",
@@ -1181,38 +755,113 @@
       "detail": "<p>点个关注呦~ 课程留言</p>"
     },
     {
-      "id": "e9f9835120ee",
-      "title": "最新车船税新规大解读",
-      "summary": "最新车船税新规大解读",
+      "id": "723240fe0ee9",
+      "title": "中国财政部税务政策公告，外籍个人股息红利个税新规落地：20%税率、代扣代缴明确，海外家族财富与跨境持股安排需调整了",
+      "summary": "中国财政部税务政策公告，外籍个人股息红利个税新规落地：20%税率、代扣代缴明确，海外家族财富与跨境持股安排需调整了",
       "source": "B站",
       "platform_class": "platform-bilibili",
-      "author": "看得懂的经济学",
-      "url": "http://www.bilibili.com/video/av116859718337758",
-      "time": "2026-09-15 00:09",
-      "heat": 5,
-      "discussions": "0",
-      "tags": [],
+      "author": "爱打劫的警长",
+      "url": "http://www.bilibili.com/video/av117268495337423",
+      "time": "2026-09-15 10:26",
+      "heat": 9,
+      "discussions": "1",
+      "tags": [
+        "个税",
+        "税务",
+        "税率"
+      ],
       "isHot": false,
-      "detail": "<p>最新车船税新规大解读</p>"
+      "detail": "<p>中国财政部税务政策公告，外籍个人股息红利个税新规落地：20%税率、代扣代缴明确，海外家族财富与跨境持股安排需调整了</p>"
     },
     {
-      "id": "23063afdddaa",
-      "title": "车船税02-计税公式/退税/免税/减半征收/税收优惠/征收管理【2026税务师考试】",
-      "summary": "本节的重点在于车船税的税收优惠，尤其注意新能源车船、节能汽车的税收优惠政策，不要混淆，不要打架。祝学习顺利~",
+      "id": "44b958ffd83b",
+      "title": "财税2026年27号 外籍个人股息红利个人所得税政策",
+      "summary": "财政部 税务总局公告2026年第27号  外籍个人股息红利个人所得税政策",
       "source": "B站",
       "platform_class": "platform-bilibili",
-      "author": "陈述法理",
-      "url": "http://www.bilibili.com/video/av117006049222635",
-      "time": "2026-09-15 00:09",
+      "author": "林山LSq",
+      "url": "http://www.bilibili.com/video/av117262321195756",
+      "time": "2026-09-15 10:26",
+      "heat": 7,
+      "discussions": "0",
+      "tags": [
+        "个人所得税",
+        "税务",
+        "财政"
+      ],
+      "isHot": false,
+      "detail": "<p>财政部 税务总局公告2026年第27号  外籍个人股息红利个人所得税政策</p>"
+    },
+    {
+      "id": "c3698fcc5c95",
+      "title": "税务面试高分作答：如何开展实战基地项目，提升税务青年综合素质？（2025年5月25日税务局面试题，补录）",
+      "summary": "税务总局在对年轻税务干部开展普遍调研后发现，当前年轻税务干部在业务能力、创新意识和服务意识等方面仍存在不足。为帮助青年干部提升综合素质，总局拟打造三个青年干部实战基地：（1）人才创新工作室（2）税费争议化解工作室（3）纳税服务工作站请你从上述三个项目中任选其一，阐述该项目的主要内容，并说明你将如何具体开展实施。（2025年5月25日税务局面试题，补录）#国考税务面试 #税务面试 #税务局面试 #国",
+      "source": "B站",
+      "platform_class": "platform-bilibili",
+      "author": "大刘老师说面试",
+      "url": "http://www.bilibili.com/video/av117269568952889",
+      "time": "2026-09-15 10:26",
+      "heat": 7,
+      "discussions": "0",
+      "tags": [
+        "税务",
+        "纳税",
+        "税务总局"
+      ],
+      "isHot": false,
+      "detail": "<p>税务总局在对年轻税务干部开展普遍调研后发现，当前年轻税务干部在业务能力、创新意识和服务意识等方面仍存在不足。为帮助青年干部提升综合素质，总局拟打造三个青年干部实战基地：（1）人才创新工作室（2）税费争议化解工作室（3）纳税服务工作站请你从上述三个项目中任选其一，阐述该项目的主要内容，并说明你将如何具体开展实施。（2025年5月25日税务局面试题，补录）#国考税务面试 #税务面试 #税务局面试 #国</p>"
+    },
+    {
+      "id": "fbc1125b59a4",
+      "title": "境内单位扣缴自然人增值税最新政策！",
+      "summary": "-",
+      "source": "B站",
+      "platform_class": "platform-bilibili",
+      "author": "刘亚楠大成方略",
+      "url": "http://www.bilibili.com/video/av117256331859773",
+      "time": "2026-09-15 10:26",
+      "heat": 5,
+      "discussions": "0",
+      "tags": [
+        "增值税"
+      ],
+      "isHot": false,
+      "detail": "<p>-</p>"
+    },
+    {
+      "id": "5977f55726d7",
+      "title": "黄金税改～增值税",
+      "summary": "-",
+      "source": "B站",
+      "platform_class": "platform-bilibili",
+      "author": "崔扬讲三税",
+      "url": "http://www.bilibili.com/video/av117126643980221",
+      "time": "2026-09-15 10:26",
       "heat": 4,
       "discussions": "0",
       "tags": [
-        "税收",
-        "税务",
-        "退税"
+        "增值税",
+        "税改"
       ],
       "isHot": false,
-      "detail": "<p>本节的重点在于车船税的税收优惠，尤其注意新能源车船、节能汽车的税收优惠政策，不要混淆，不要打架。祝学习顺利~</p>"
+      "detail": "<p>-</p>"
+    },
+    {
+      "id": "4c7aa576b52e",
+      "title": "11月1日企业向个人支付价款需要扣缴增值税",
+      "summary": "-",
+      "source": "B站",
+      "platform_class": "platform-bilibili",
+      "author": "海平财税智囊",
+      "url": "http://www.bilibili.com/video/av117215344990042",
+      "time": "2026-09-15 10:26",
+      "heat": 4,
+      "discussions": "0",
+      "tags": [
+        "增值税"
+      ],
+      "isHot": false,
+      "detail": "<p>-</p>"
     },
     {
       "id": "f7643882cab3",
@@ -1222,7 +871,7 @@
       "platform_class": "platform-bilibili",
       "author": "精品资料讲义118",
       "url": "http://www.bilibili.com/video/av117267421533987",
-      "time": "2026-09-15 00:09",
+      "time": "2026-09-15 10:26",
       "heat": 4,
       "discussions": "0",
       "tags": [
@@ -1233,20 +882,37 @@
       "detail": "<p>同学们!一定要帮我点个三连呀!需要课程配套的讲义、同款的课程PPT、以及题库app等资\n\n料的可以直接评论\n\n联系:408124866</p>"
     },
     {
-      "id": "d6f6394c4e2e",
-      "title": "#税收征管法 ！#清税新规影响# #税务新规解读# #消费税#",
+      "id": "d322bb3b8711",
+      "title": "2026税务师税二：新教材精讲班完整版有讲义",
+      "summary": "同学们!一定要帮我点个三连呀!需要课程配套的讲义、同款的课程PPT、以及题库app等资\n\n料的可以直接评论\n\n联系:408124866",
+      "source": "B站",
+      "platform_class": "platform-bilibili",
+      "author": "学姐在线168",
+      "url": "http://www.bilibili.com/video/av117267438242953",
+      "time": "2026-09-15 10:26",
+      "heat": 3,
+      "discussions": "0",
+      "tags": [
+        "税务",
+        "税务师"
+      ],
+      "isHot": false,
+      "detail": "<p>同学们!一定要帮我点个三连呀!需要课程配套的讲义、同款的课程PPT、以及题库app等资\n\n料的可以直接评论\n\n联系:408124866</p>"
+    },
+    {
+      "id": "c3458f953aaa",
+      "title": "三税合一？地方附加税改革来了，谁的税负会变？",
       "summary": "-",
       "source": "B站",
       "platform_class": "platform-bilibili",
-      "author": "吴大壮1982",
-      "url": "http://www.bilibili.com/video/av117241970431612",
-      "time": "2026-09-15 00:09",
+      "author": "云姐陪你开公司",
+      "url": "http://www.bilibili.com/video/av117204641123114",
+      "time": "2026-09-15 10:26",
       "heat": 2,
       "discussions": "0",
       "tags": [
-        "消费税",
-        "税收",
-        "税务"
+        "税负",
+        "税改"
       ],
       "isHot": false,
       "detail": "<p>-</p>"
@@ -1259,7 +925,7 @@
       "platform_class": "platform-bilibili",
       "author": "从税十年老李说",
       "url": "http://www.bilibili.com/video/av117267538971177",
-      "time": "2026-09-15 00:09",
+      "time": "2026-09-15 10:26",
       "heat": 2,
       "discussions": "0",
       "tags": [
@@ -1270,24 +936,6 @@
       "detail": "<p>老板注意税务局大数据盯上你了！</p>"
     },
     {
-      "id": "716acbaa79a7",
-      "title": "【网安周33】市税务局｜税安上网 指尖守护",
-      "summary": "【网安周33】市税务局｜税安上网 指尖守护",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "上海商密协会",
-      "url": "http://www.bilibili.com/video/av117264804220154",
-      "time": "2026-09-15 00:09",
-      "heat": 2,
-      "discussions": "0",
-      "tags": [
-        "税务",
-        "税务局"
-      ],
-      "isHot": false,
-      "detail": "<p>【网安周33】市税务局｜税安上网 指尖守护</p>"
-    },
-    {
       "id": "324619a65462",
       "title": "【财税避坑】含税价不含税价到底怎么算？很多老板一直算错！",
       "summary": "【财税避坑】含税价不含税价到底怎么算？很多老板一直算错！",
@@ -1295,7 +943,7 @@
       "platform_class": "platform-bilibili",
       "author": "国财财务",
       "url": "http://www.bilibili.com/video/av117256818265197",
-      "time": "2026-09-15 00:09",
+      "time": "2026-09-15 10:26",
       "heat": 1,
       "discussions": "0",
       "tags": [],
@@ -1303,22 +951,55 @@
       "detail": "<p>【财税避坑】含税价不含税价到底怎么算？很多老板一直算错！</p>"
     },
     {
-      "id": "d322bb3b8711",
-      "title": "2026税务师税二：新教材精讲班完整版有讲义",
-      "summary": "同学们!一定要帮我点个三连呀!需要课程配套的讲义、同款的课程PPT、以及题库app等资\n\n料的可以直接评论\n\n联系:408124866",
+      "id": "cf9e52ac3209",
+      "title": "2026年中级经济师 财税税收新教材精讲班100讲完整 董依然 带三色笔记",
+      "summary": "分集_2026-08-04_2026年中级经济师 财税税收新教材精讲班100讲完整 董依然 带三色笔记",
       "source": "B站",
       "platform_class": "platform-bilibili",
-      "author": "精品资料讲义118",
-      "url": "http://www.bilibili.com/video/av117267455086880",
-      "time": "2026-09-15 00:09",
+      "author": "萱萱资料",
+      "url": "http://www.bilibili.com/video/av117268780489273",
+      "time": "2026-09-15 10:26",
       "heat": 1,
       "discussions": "0",
       "tags": [
-        "税务",
-        "税务师"
+        "税收"
       ],
       "isHot": false,
-      "detail": "<p>同学们!一定要帮我点个三连呀!需要课程配套的讲义、同款的课程PPT、以及题库app等资\n\n料的可以直接评论\n\n联系:408124866</p>"
+      "detail": "<p>分集_2026-08-04_2026年中级经济师 财税税收新教材精讲班100讲完整 董依然 带三色笔记</p>"
+    },
+    {
+      "id": "a6233c48c911",
+      "title": "2026 增值税新规！餐费进项不是全都不能抵扣，很多企业白白多交税#增值税法 #财税新规 #进项抵扣 #企业财税",
+      "summary": "-",
+      "source": "B站",
+      "platform_class": "platform-bilibili",
+      "author": "清之锐财税咨询",
+      "url": "http://www.bilibili.com/video/av117267220337116",
+      "time": "2026-09-15 10:26",
+      "heat": 0,
+      "discussions": "0",
+      "tags": [
+        "增值税",
+        "税法",
+        "进项"
+      ],
+      "isHot": false,
+      "detail": "<p>-</p>"
+    },
+    {
+      "id": "163086a71a49",
+      "title": "2026年财税五大新规",
+      "summary": "2026年财税五大新规",
+      "source": "B站",
+      "platform_class": "platform-bilibili",
+      "author": "票一加",
+      "url": "http://www.bilibili.com/video/av117217828079349",
+      "time": "2026-09-15 10:26",
+      "heat": 0,
+      "discussions": "0",
+      "tags": [],
+      "isHot": false,
+      "detail": "<p>2026年财税五大新规</p>"
     }
   ]
 }
