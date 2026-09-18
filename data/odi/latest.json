@@ -1,52 +1,7 @@
 {
-  "updated_at": "2026-09-17T22:41:01.387512+08:00",
-  "count": 54,
+  "updated_at": "2026-09-18T10:10:08.393299+08:00",
+  "count": 50,
   "topics": [
-    {
-      "id": "0b62c75372bf",
-      "title": "个人域名备案-网站备案-APP备案-阿里云ICP -十几分钟教会你从购买域名到域名备案全流程",
-      "summary": "十几分钟教会你从购买域名到域名备案全流程，使用阿里云ecs服务器，免备案名备案",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "自由程序员八哥",
-      "url": "http://www.bilibili.com/video/av114308943975925",
-      "time": "2026-09-17 22:41",
-      "heat": 6750,
-      "discussions": "285",
-      "tags": [],
-      "isHot": true,
-      "detail": "<p>十几分钟教会你从购买域名到域名备案全流程，使用阿里云ecs服务器，免备案名备案</p>"
-    },
-    {
-      "id": "c7f949a316b8",
-      "title": "【2026】AWS解决方案架构师认证助理级(SAA-C03)课程",
-      "summary": "《🔥🔥🔥官网：https://www.lalapodo.com/academy》\nLalapodo一直专注于技术本身，坚持以严谨的态度深耕云计算、DevOps、AI等前沿领域。我们为海外华人工程师与求职者提供高质量、强实战的课程内容，并已成功帮助许多人提升了技能、实现了职业突破。我们的公开课在B站、YouTube等平台累计服务了数十万学习者，收获了来自社区的广泛认可。\n💪 💪 💪更硬核的是，Lal",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "LalapodoIT",
-      "url": "http://www.bilibili.com/video/av113190625287883",
-      "time": "2026-09-17 22:41",
-      "heat": 4294,
-      "discussions": "81",
-      "tags": [],
-      "isHot": true,
-      "detail": "<p>《🔥🔥🔥官网：https://www.lalapodo.com/academy》\nLalapodo一直专注于技术本身，坚持以严谨的态度深耕云计算、DevOps、AI等前沿领域。我们为海外华人工程师与求职者提供高质量、强实战的课程内容，并已成功帮助许多人提升了技能、实现了职业突破。我们的公开课在B站、YouTube等平台累计服务了数十万学习者，收获了来自社区的广泛认可。\n💪 💪 💪更硬核的是，Lal</p>"
-    },
-    {
-      "id": "90ed825a3ff6",
-      "title": "国务院海外投资新规定",
-      "summary": "国务院海外投资新规定",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "杨华说天下",
-      "url": "http://www.bilibili.com/video/av116686594245261",
-      "time": "2026-09-17 22:41",
-      "heat": 3887,
-      "discussions": "75",
-      "tags": [],
-      "isHot": true,
-      "detail": "<p>国务院海外投资新规定</p>"
-    },
     {
       "id": "dbb9b7c2f835",
       "title": "【史诗级提分干货】全网最好理解的国际税收框架——大白话的国际税收||433||国际税收||税务专硕||经验||方法||",
@@ -55,42 +10,27 @@
       "platform_class": "platform-bilibili",
       "author": "映山学长税务专硕433",
       "url": "http://www.bilibili.com/video/av322096277",
-      "time": "2026-09-17 22:41",
+      "time": "2026-09-18 10:10",
       "heat": 3436,
       "discussions": "25",
       "tags": [],
-      "isHot": false,
+      "isHot": true,
       "detail": "<p>【史诗级提分干货】全网最好理解的国际税收框架——大白话的国际税收||433||国际税收||税务专硕||经验||方法||</p>"
     },
     {
-      "id": "316788c9644d",
-      "title": "如何避免20%资本利得税？境外投资个税指南 | CRS透明个人所得税 | QDII | 港股通 |030",
-      "summary": "国内对境外资本利得的20%税收监管已进入全面执行阶段，CRS和金税四期让海外账户的个人所得税无处遁形。普通投资者应通过合规渠道（如港股通、QDII）和主动申报个税降低税务风险。在监管与技术双轮驱动下，合规是唯一出路，忽视规则将导致高昂代价。\n目前A股的买卖差价所得暂免征收个人所得税，但股息红利所得根据持股期限适用差异化税率“0%-20% (按持股期)”。为当前最具税收优势的投资渠道，但前提是您认为",
+      "id": "8ea9877d6cb6",
+      "title": "王健林：海外投资就是转移资产，但是万达的钱都是我们辛苦赚的，我爱往哪里投资就往哪里投资。",
+      "summary": "-",
       "source": "B站",
       "platform_class": "platform-bilibili",
-      "author": "呆萌财",
-      "url": "http://www.bilibili.com/video/av115910933221499",
-      "time": "2026-09-17 22:41",
-      "heat": 1921,
-      "discussions": "111",
+      "author": "鲸鱼Sss",
+      "url": "http://www.bilibili.com/video/av115286283919158",
+      "time": "2026-09-18 10:10",
+      "heat": 1173,
+      "discussions": "25",
       "tags": [],
-      "isHot": false,
-      "detail": "<p>国内对境外资本利得的20%税收监管已进入全面执行阶段，CRS和金税四期让海外账户的个人所得税无处遁形。普通投资者应通过合规渠道（如港股通、QDII）和主动申报个税降低税务风险。在监管与技术双轮驱动下，合规是唯一出路，忽视规则将导致高昂代价。\n目前A股的买卖差价所得暂免征收个人所得税，但股息红利所得根据持股期限适用差异化税率“0%-20% (按持股期)”。为当前最具税收优势的投资渠道，但前提是您认为</p>"
-    },
-    {
-      "id": "eb83e7c19d4b",
-      "title": "4-1外经证的开具|跨区域涉税事项全流程|看完就会啦～",
-      "summary": "#建筑#会计#外经证开具#异地报验#异地预缴#反馈核销#跨区域涉税事项全流程",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "财务方",
-      "url": "http://www.bilibili.com/video/av113458557225336",
-      "time": "2026-09-17 22:41",
-      "heat": 1255,
-      "discussions": "30",
-      "tags": [],
-      "isHot": false,
-      "detail": "<p>#建筑#会计#外经证开具#异地报验#异地预缴#反馈核销#跨区域涉税事项全流程</p>"
+      "isHot": true,
+      "detail": "<p>-</p>"
     },
     {
       "id": "3ed1283cb0b9",
@@ -100,11 +40,11 @@
       "platform_class": "platform-bilibili",
       "author": "晗妈会计",
       "url": "http://www.bilibili.com/video/av114874621365316",
-      "time": "2026-09-17 22:41",
-      "heat": 825,
+      "time": "2026-09-18 10:10",
+      "heat": 827,
       "discussions": "6",
       "tags": [],
-      "isHot": false,
+      "isHot": true,
       "detail": "<p>-</p>"
     },
     {
@@ -115,29 +55,12 @@
       "platform_class": "platform-bilibili",
       "author": "华姐Melanie",
       "url": "http://www.bilibili.com/video/av116842270034875",
-      "time": "2026-09-17 22:41",
+      "time": "2026-09-18 10:10",
       "heat": 507,
       "discussions": "3",
       "tags": [],
       "isHot": false,
       "detail": "<p>企业出海第一步是搭建一个离岸+投资国在岸的投资架构，能够支持长期经营、分红、融资与上市，同时把全球税收成本最小化。</p>"
-    },
-    {
-      "id": "ad8cc74a5128",
-      "title": "一个视频讲解ODI备案的原理",
-      "summary": "一个视频讲解ODI备案的原理",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "红茶女士Blacktea",
-      "url": "http://www.bilibili.com/video/av115382786464307",
-      "time": "2026-09-17 22:41",
-      "heat": 494,
-      "discussions": "7",
-      "tags": [
-        "ODI备案"
-      ],
-      "isHot": false,
-      "detail": "<p>一个视频讲解ODI备案的原理</p>"
     },
     {
       "id": "878d5a0aa1ce",
@@ -147,12 +70,27 @@
       "platform_class": "platform-bilibili",
       "author": "造价求甚解",
       "url": "http://www.bilibili.com/video/av1702347178",
-      "time": "2026-09-17 22:41",
+      "time": "2026-09-18 10:10",
       "heat": 430,
       "discussions": "1",
       "tags": [],
       "isHot": false,
       "detail": "<p>项目投资审批、核准或备案管理</p>"
+    },
+    {
+      "id": "6ab9995b6949",
+      "title": "易制毒网上报备管理系统之购买备案操作流程讲解",
+      "summary": "全国易制毒网上报备管理系统之购买备案操作流程讲解",
+      "source": "B站",
+      "platform_class": "platform-bilibili",
+      "author": "xyk2021kyx",
+      "url": "http://www.bilibili.com/video/av719171952",
+      "time": "2026-09-18 10:10",
+      "heat": 416,
+      "discussions": "4",
+      "tags": [],
+      "isHot": false,
+      "detail": "<p>全国易制毒网上报备管理系统之购买备案操作流程讲解</p>"
     },
     {
       "id": "8ccb49f41b35",
@@ -162,7 +100,7 @@
       "platform_class": "platform-bilibili",
       "author": "Ashley聊境外",
       "url": "http://www.bilibili.com/video/av1800794851",
-      "time": "2026-09-17 22:41",
+      "time": "2026-09-18 10:10",
       "heat": 348,
       "discussions": "1",
       "tags": [],
@@ -177,7 +115,7 @@
       "platform_class": "platform-bilibili",
       "author": "DeloitteAcademy",
       "url": "http://www.bilibili.com/video/av925167232",
-      "time": "2026-09-17 22:41",
+      "time": "2026-09-18 10:10",
       "heat": 315,
       "discussions": "2",
       "tags": [
@@ -194,27 +132,12 @@
       "platform_class": "platform-bilibili",
       "author": "宋俊生说股权",
       "url": "http://www.bilibili.com/video/av113668121429890",
-      "time": "2026-09-17 22:41",
+      "time": "2026-09-18 10:10",
       "heat": 268,
       "discussions": "2",
       "tags": [],
       "isHot": false,
       "detail": "<p>系统学习新公司法、香港/海南注册公司、股权架构设计就看329私房课，【评论区】拍下课程坐等入班听课，课后领取5份资料，含新公司法下新版《公司章程36道批注》与《股东协议》等18份股权协议。或者联系【ssbaofu30】拍下课程领资料</p>"
-    },
-    {
-      "id": "0547a4de0413",
-      "title": "受益所有人备案股东是公司怎么备案？",
-      "summary": "-",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "晗妈会计",
-      "url": "http://www.bilibili.com/video/av115500579294345",
-      "time": "2026-09-17 22:41",
-      "heat": 267,
-      "discussions": "9",
-      "tags": [],
-      "isHot": false,
-      "detail": "<p>-</p>"
     },
     {
       "id": "26c6e997f63f",
@@ -224,7 +147,7 @@
       "platform_class": "platform-bilibili",
       "author": "我是流星农",
       "url": "http://www.bilibili.com/video/av113242970002340",
-      "time": "2026-09-17 22:41",
+      "time": "2026-09-18 10:10",
       "heat": 263,
       "discussions": "3",
       "tags": [],
@@ -239,7 +162,7 @@
       "platform_class": "platform-bilibili",
       "author": "简约涉外法",
       "url": "http://www.bilibili.com/video/av113687935325905",
-      "time": "2026-09-17 22:41",
+      "time": "2026-09-18 10:10",
       "heat": 262,
       "discussions": "1",
       "tags": [],
@@ -254,7 +177,7 @@
       "platform_class": "platform-bilibili",
       "author": "凯文制造",
       "url": "http://www.bilibili.com/video/av246562097",
-      "time": "2026-09-17 22:41",
+      "time": "2026-09-18 10:10",
       "heat": 257,
       "discussions": "8",
       "tags": [
@@ -265,21 +188,19 @@
       "detail": "<p>本期视频介绍了境外投资备案材料的准备，是三期介绍境外投资视频的最后一期。\n本期视频对应政策文件主要为《关于发布企业境外投资管理办法配套格式文本（2018年版）》（发改外资〔2018〕252号）。</p>"
     },
     {
-      "id": "d65e3b67f3c3",
-      "title": "个人能不能境外投资",
-      "summary": "个人能不去海外投资呢？经常看到新闻里提及个人通过在海外设立特殊目的公司实现海外融资或上市，那什么情况下才是特殊目的公司（SPV）？\n或者是不是个人基本都可以通过37号文备案实现境外投资呢？",
+      "id": "6fb2bb6aa3cc",
+      "title": "海外投资:FDI外商直接投资",
+      "summary": "-",
       "source": "B站",
       "platform_class": "platform-bilibili",
-      "author": "张平说跨境",
-      "url": "http://www.bilibili.com/video/av207654007",
-      "time": "2026-09-17 22:41",
+      "author": "莫合-muhammat",
+      "url": "http://www.bilibili.com/video/av440159976",
+      "time": "2026-09-18 10:10",
       "heat": 246,
-      "discussions": "6",
-      "tags": [
-        "37号文"
-      ],
+      "discussions": "0",
+      "tags": [],
       "isHot": false,
-      "detail": "<p>个人能不去海外投资呢？经常看到新闻里提及个人通过在海外设立特殊目的公司实现海外融资或上市，那什么情况下才是特殊目的公司（SPV）？\n或者是不是个人基本都可以通过37号文备案实现境外投资呢？</p>"
+      "detail": "<p>-</p>"
     },
     {
       "id": "a18dcccdbaba",
@@ -289,7 +210,7 @@
       "platform_class": "platform-bilibili",
       "author": "逗马贰叁Dogme23",
       "url": "http://www.bilibili.com/video/av1656055979",
-      "time": "2026-09-17 22:41",
+      "time": "2026-09-18 10:10",
       "heat": 191,
       "discussions": "5",
       "tags": [],
@@ -304,12 +225,27 @@
       "platform_class": "platform-bilibili",
       "author": "张局拍案",
       "url": "http://www.bilibili.com/video/av117089062887391",
-      "time": "2026-09-17 22:41",
+      "time": "2026-09-18 10:10",
       "heat": 173,
       "discussions": "3",
       "tags": [],
       "isHot": false,
       "detail": "<p>税务系统，组织架构</p>"
+    },
+    {
+      "id": "b2b0f018a08c",
+      "title": "精讲出海架构01：海外业务公司的搭建",
+      "summary": "精讲出海架构01：海外业务公司的搭建",
+      "source": "B站",
+      "platform_class": "platform-bilibili",
+      "author": "红茶女士Blacktea",
+      "url": "http://www.bilibili.com/video/av116668709738641",
+      "time": "2026-09-18 10:10",
+      "heat": 160,
+      "discussions": "1",
+      "tags": [],
+      "isHot": false,
+      "detail": "<p>精讲出海架构01：海外业务公司的搭建</p>"
     },
     {
       "id": "d7da4459ccc1",
@@ -319,29 +255,12 @@
       "platform_class": "platform-bilibili",
       "author": "懂点税",
       "url": "http://www.bilibili.com/video/av114902102577978",
-      "time": "2026-09-17 22:41",
+      "time": "2026-09-18 10:10",
       "heat": 143,
       "discussions": "1",
       "tags": [],
       "isHot": false,
       "detail": "<p>境外投资者以利润分配再投资抵免企业所得税</p>"
-    },
-    {
-      "id": "9c53368fb1ff",
-      "title": "海外投资怎么操作？什么是ODI备案？了解3个出去的方法",
-      "summary": "海外投资怎么操作？什么是ODI备案？了解3个出去的方法",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "宋俊生说股权",
-      "url": "http://www.bilibili.com/video/av113746873681719",
-      "time": "2026-09-17 22:41",
-      "heat": 140,
-      "discussions": "3",
-      "tags": [
-        "ODI备案"
-      ],
-      "isHot": false,
-      "detail": "<p>海外投资怎么操作？什么是ODI备案？了解3个出去的方法</p>"
     },
     {
       "id": "8f14d7416a4a",
@@ -351,7 +270,7 @@
       "platform_class": "platform-bilibili",
       "author": "张平说跨境",
       "url": "http://www.bilibili.com/video/av336208466",
-      "time": "2026-09-17 22:41",
+      "time": "2026-09-18 10:10",
       "heat": 95,
       "discussions": "0",
       "tags": [],
@@ -359,21 +278,19 @@
       "detail": "<p>境外直接投资备案流程#odi流程#资金出境审批流程#外汇#合规</p>"
     },
     {
-      "id": "4cd2a52a148b",
-      "title": "精讲出海架构04：企业办理ODI备案的常见卡点解析",
-      "summary": "精讲出海架构04：企业办理ODI备案的常见卡点解析",
+      "id": "958d39c9d157",
+      "title": "《数字化转型与海外投资效率》实证论文复刻",
+      "summary": "北京外国语大学国际商学院王德宏教授《实证会计》课程作业，高质量C刊论文实证过程Stata复刻演示。2024秋季《实证会计》课程，论文实证过程全面复刻作业。",
       "source": "B站",
       "platform_class": "platform-bilibili",
-      "author": "红茶女士Blacktea",
-      "url": "http://www.bilibili.com/video/av116799370697250",
-      "time": "2026-09-17 22:41",
-      "heat": 87,
-      "discussions": "0",
-      "tags": [
-        "ODI备案"
-      ],
+      "author": "王德宏",
+      "url": "http://www.bilibili.com/video/av114549479052727",
+      "time": "2026-09-18 10:10",
+      "heat": 77,
+      "discussions": "3",
+      "tags": [],
       "isHot": false,
-      "detail": "<p>精讲出海架构04：企业办理ODI备案的常见卡点解析</p>"
+      "detail": "<p>北京外国语大学国际商学院王德宏教授《实证会计》课程作业，高质量C刊论文实证过程Stata复刻演示。2024秋季《实证会计》课程，论文实证过程全面复刻作业。</p>"
     },
     {
       "id": "ee5add41672e",
@@ -383,7 +300,7 @@
       "platform_class": "platform-bilibili",
       "author": "亿典税税念",
       "url": "http://www.bilibili.com/video/av115462830558338",
-      "time": "2026-09-17 22:41",
+      "time": "2026-09-18 10:10",
       "heat": 69,
       "discussions": "3",
       "tags": [],
@@ -391,19 +308,21 @@
       "detail": "<p>-</p>"
     },
     {
-      "id": "7e7e9b5875a1",
-      "title": "巅峰时石材出海超200亿，转型陪伴跨境出海企业出海！",
-      "summary": "巅峰时石材出海超200亿，转型陪伴跨境出海企业出海！",
+      "id": "9b6ac38ad75c",
+      "title": "企业境外投资备案（ODI）办理条件及资料",
+      "summary": "企业境外投资备案（ODI）办理条件及资料-腾博国际",
       "source": "B站",
       "platform_class": "platform-bilibili",
-      "author": "秋刀鱼对话出海理想",
-      "url": "http://www.bilibili.com/video/av117260895197142",
-      "time": "2026-09-17 22:41",
+      "author": "腾博朱经理",
+      "url": "http://www.bilibili.com/video/av546941795",
+      "time": "2026-09-18 10:10",
       "heat": 61,
       "discussions": "0",
-      "tags": [],
+      "tags": [
+        "境外投资备案"
+      ],
       "isHot": false,
-      "detail": "<p>巅峰时石材出海超200亿，转型陪伴跨境出海企业出海！</p>"
+      "detail": "<p>企业境外投资备案（ODI）办理条件及资料-腾博国际</p>"
     },
     {
       "id": "ebaa941c8fba",
@@ -413,27 +332,74 @@
       "platform_class": "platform-bilibili",
       "author": "法学薇ck91jd",
       "url": "http://www.bilibili.com/video/av115149969034827",
-      "time": "2026-09-17 22:41",
-      "heat": 57,
+      "time": "2026-09-18 10:10",
+      "heat": 58,
       "discussions": "0",
       "tags": [],
       "isHot": false,
       "detail": "<p>企业境外投资股权与章程架构搭建实务指引【荃15讲+课件】，完整籽料si芯💌 \n资源收集于网络，仅用于试学及购买课程之参考，切勿用于其他用途！如若侵权，请留言告知删除，谢谢！投稿为自制是为了防止二次搬运添加水印，敬请理解。</p>"
     },
     {
-      "id": "ce1e77cedeaa",
-      "title": "内地资金合规入金美股低损耗指南",
-      "summary": "个人经验分享，不构成任何投资理财建议。",
+      "id": "e556fe8f11a2",
+      "title": "odi备案和fdi备案的区别",
+      "summary": "-",
       "source": "B站",
       "platform_class": "platform-bilibili",
-      "author": "bili_3706994319952291",
-      "url": "http://www.bilibili.com/video/av116922918246481",
-      "time": "2026-09-17 22:41",
+      "author": "卓信海外公司赵小姐",
+      "url": "http://www.bilibili.com/video/av896070707",
+      "time": "2026-09-18 10:10",
+      "heat": 57,
+      "discussions": "0",
+      "tags": [],
+      "isHot": false,
+      "detail": "<p>-</p>"
+    },
+    {
+      "id": "5566ceb33b60",
+      "title": "境外直接投资备案ODI最全面介绍来啦",
+      "summary": "境外直接投资备案ODI最全面介绍来啦\n\n#ODI备案什么意思#ODI申请#ODI备案好处#ODI备案材料#ODI备案收费",
+      "source": "B站",
+      "platform_class": "platform-bilibili",
+      "author": "拿着放大镜的Sunny",
+      "url": "http://www.bilibili.com/video/av114579476713309",
+      "time": "2026-09-18 10:10",
+      "heat": 53,
+      "discussions": "1",
+      "tags": [
+        "ODI备案"
+      ],
+      "isHot": false,
+      "detail": "<p>境外直接投资备案ODI最全面介绍来啦\n\n#ODI备案什么意思#ODI申请#ODI备案好处#ODI备案材料#ODI备案收费</p>"
+    },
+    {
+      "id": "989e7cea2975",
+      "title": "企业出海的财务体系搭建（三个阶段）",
+      "summary": "-",
+      "source": "B站",
+      "platform_class": "platform-bilibili",
+      "author": "墨哥聊产业",
+      "url": "http://www.bilibili.com/video/av114602947976911",
+      "time": "2026-09-18 10:10",
+      "heat": 52,
+      "discussions": "0",
+      "tags": [],
+      "isHot": false,
+      "detail": "<p>-</p>"
+    },
+    {
+      "id": "0c197a7594c6",
+      "title": "企业出海架构搭建的税务考量",
+      "summary": "本号分享的资源版权属于原出版机构或影像公司，资源为电子载体整理所得，分享仅限于家庭交流心得、参考和辅助购买决策，若喜欢此资源，建议购买实体产品。版权归原作者或原出版社所有，如有侵权，请及时联系删除。",
+      "source": "B站",
+      "platform_class": "platform-bilibili",
+      "author": "熊猫财税",
+      "url": "http://www.bilibili.com/video/av115377115758595",
+      "time": "2026-09-18 10:10",
       "heat": 48,
       "discussions": "0",
       "tags": [],
       "isHot": false,
-      "detail": "<p>个人经验分享，不构成任何投资理财建议。</p>"
+      "detail": "<p>本号分享的资源版权属于原出版机构或影像公司，资源为电子载体整理所得，分享仅限于家庭交流心得、参考和辅助购买决策，若喜欢此资源，建议购买实体产品。版权归原作者或原出版社所有，如有侵权，请及时联系删除。</p>"
     },
     {
       "id": "21532f01a959",
@@ -443,7 +409,7 @@
       "platform_class": "platform-bilibili",
       "author": "AC国际咨询",
       "url": "http://www.bilibili.com/video/av112602298450286",
-      "time": "2026-09-17 22:41",
+      "time": "2026-09-18 10:10",
       "heat": 37,
       "discussions": "0",
       "tags": [],
@@ -451,19 +417,21 @@
       "detail": "<p>境外投资（ODI）备案发改委审核要点</p>"
     },
     {
-      "id": "27430e5e9331",
-      "title": "8_私募股权基金产品备案操作实务",
-      "summary": "网课\n私募股权基金产品备案实操，第八讲，主讲廖莹律师\n本课程仅供学习交流休闲之用，不作商业使用。其版权归原作者所有。\n视频课程开头播放的联系方式是侵权者添加，谨慎添加避免被骗。\n单纯支持UP请点关注、点赞、转发、评论。\n需要更多课程私信UP",
+      "id": "716521021080",
+      "title": "odi境外投资备案的流程（6个步骤）",
+      "summary": "odi境外投资备案的流程（6个步骤）",
       "source": "B站",
       "platform_class": "platform-bilibili",
-      "author": "充电桩爱学习",
-      "url": "http://www.bilibili.com/video/av113683908792308",
-      "time": "2026-09-17 22:41",
-      "heat": 36,
+      "author": "金兔国际聊跨境",
+      "url": "http://www.bilibili.com/video/av706186924",
+      "time": "2026-09-18 10:10",
+      "heat": 35,
       "discussions": "0",
-      "tags": [],
+      "tags": [
+        "境外投资备案"
+      ],
       "isHot": false,
-      "detail": "<p>网课\n私募股权基金产品备案实操，第八讲，主讲廖莹律师\n本课程仅供学习交流休闲之用，不作商业使用。其版权归原作者所有。\n视频课程开头播放的联系方式是侵权者添加，谨慎添加避免被骗。\n单纯支持UP请点关注、点赞、转发、评论。\n需要更多课程私信UP</p>"
+      "detail": "<p>odi境外投资备案的流程（6个步骤）</p>"
     },
     {
       "id": "f218d321c063",
@@ -473,7 +441,7 @@
       "platform_class": "platform-bilibili",
       "author": "我是流星农",
       "url": "http://www.bilibili.com/video/av117165701273420",
-      "time": "2026-09-17 22:41",
+      "time": "2026-09-18 10:10",
       "heat": 34,
       "discussions": "3",
       "tags": [],
@@ -488,7 +456,7 @@
       "platform_class": "platform-bilibili",
       "author": "Amanda聊海外",
       "url": "http://www.bilibili.com/video/av115745610603101",
-      "time": "2026-09-17 22:41",
+      "time": "2026-09-18 10:10",
       "heat": 32,
       "discussions": "0",
       "tags": [
@@ -506,7 +474,7 @@
       "platform_class": "platform-bilibili",
       "author": "搬砖的小恒",
       "url": "http://www.bilibili.com/video/av116436479580231",
-      "time": "2026-09-17 22:41",
+      "time": "2026-09-18 10:10",
       "heat": 31,
       "discussions": "0",
       "tags": [],
@@ -521,7 +489,7 @@
       "platform_class": "platform-bilibili",
       "author": "AC国际咨询",
       "url": "http://www.bilibili.com/video/av707611722",
-      "time": "2026-09-17 22:41",
+      "time": "2026-09-18 10:10",
       "heat": 27,
       "discussions": "1",
       "tags": [
@@ -538,7 +506,7 @@
       "platform_class": "platform-bilibili",
       "author": "商业计划书可行性报告",
       "url": "http://www.bilibili.com/video/av114827947218600",
-      "time": "2026-09-17 22:41",
+      "time": "2026-09-18 10:10",
       "heat": 26,
       "discussions": "0",
       "tags": [
@@ -555,7 +523,7 @@
       "platform_class": "platform-bilibili",
       "author": "金兔国际聊跨境",
       "url": "http://www.bilibili.com/video/av536224374",
-      "time": "2026-09-17 22:41",
+      "time": "2026-09-18 10:10",
       "heat": 22,
       "discussions": "0",
       "tags": [
@@ -566,6 +534,21 @@
       "detail": "<p>境外投资备案简称ODI，是指国内企业、团体在经过相关部门的核准后，通过设立、并购、参股等方式在境外直接投资，以控制境外企业的经营管理权为核心目的投资行为。\n一般来说，ODI备案申请条件包括：境内公司最好成立满1年以上;最近一年独立第三方会计事务所出具的审计报告不能出现亏损;净资产回报(收益)率最好高于5%，越高越好;资产负债率=最好低于70%，越低越好。\nODI备案申请流程包括发改委核准或备案、商</p>"
     },
     {
+      "id": "a8e21614121f",
+      "title": "会计老板必看，税务核查底层逻辑？",
+      "summary": "-",
+      "source": "B站",
+      "platform_class": "platform-bilibili",
+      "author": "建筑财税带教",
+      "url": "http://www.bilibili.com/video/av117234806691932",
+      "time": "2026-09-18 10:10",
+      "heat": 21,
+      "discussions": "0",
+      "tags": [],
+      "isHot": false,
+      "detail": "<p>-</p>"
+    },
+    {
       "id": "5f7d2916a036",
       "title": "ODI境外投资备案，全流程详细攻略来了！#odi备案#odi境外投资备案#境外投资备案流程",
       "summary": "ODI境外投资备案，全流程详细攻略来了！#odi备案#odi境外投资备案#境外投资备案流程",
@@ -573,7 +556,7 @@
       "platform_class": "platform-bilibili",
       "author": "nana注册香港公司",
       "url": "http://www.bilibili.com/video/av115785188050778",
-      "time": "2026-09-17 22:41",
+      "time": "2026-09-18 10:10",
       "heat": 16,
       "discussions": "0",
       "tags": [
@@ -583,6 +566,23 @@
       "detail": "<p>ODI境外投资备案，全流程详细攻略来了！#odi备案#odi境外投资备案#境外投资备案流程</p>"
     },
     {
+      "id": "0cfbb9f883cd",
+      "title": "ODI境外投资备案",
+      "summary": "什么样的企业需要境外投资备案？涉及跨境电商，海外税筹，成立海外子公司，跨境合作，海外上市，BVI投资等。\n境内企业申请ODI有什么要求？审计报告不能亏损，公司成立一年以上等条件。具体见图",
+      "source": "B站",
+      "platform_class": "platform-bilibili",
+      "author": "水享分享",
+      "url": "http://www.bilibili.com/video/av580860065",
+      "time": "2026-09-18 10:10",
+      "heat": 15,
+      "discussions": "0",
+      "tags": [
+        "境外投资备案"
+      ],
+      "isHot": false,
+      "detail": "<p>什么样的企业需要境外投资备案？涉及跨境电商，海外税筹，成立海外子公司，跨境合作，海外上市，BVI投资等。\n境内企业申请ODI有什么要求？审计报告不能亏损，公司成立一年以上等条件。具体见图</p>"
+    },
+    {
       "id": "5b83db2de09f",
       "title": "AI/RPA税务师场景化应用＆BEPS2.0落地实操与全球反避税应对＆CRS升级高净值人群跨境资产合规与财富传承",
       "summary": "1.BEPS2.0落地实操与全球反避税应对\n2.CRS升级高净值人群跨境资产合规与财富传承\n3.AI/RPA税务师场景化应用",
@@ -590,7 +590,7 @@
       "platform_class": "platform-bilibili",
       "author": "业法财税学院",
       "url": "http://www.bilibili.com/video/av116956438988065",
-      "time": "2026-09-17 22:41",
+      "time": "2026-09-18 10:10",
       "heat": 15,
       "discussions": "0",
       "tags": [],
@@ -598,19 +598,39 @@
       "detail": "<p>1.BEPS2.0落地实操与全球反避税应对\n2.CRS升级高净值人群跨境资产合规与财富传承\n3.AI/RPA税务师场景化应用</p>"
     },
     {
-      "id": "4ed1ae22f145",
-      "title": "CRS2.0各国推行你的境外投资需要做海外投资复盘，传统港美股券商之外的选择",
-      "summary": "CRS2.0各国推行你的境外投资需要做海外投资复盘，传统港美股券商之外的选择",
+      "id": "4df2ba3ed217",
+      "title": "境外投资备案全攻略；ODI备案申请资料清单；ODI备案外汇登记凭证办理；ODI备案关键点和技巧#企业出海#境外投资备案#香港公司注册",
+      "summary": "-",
       "source": "B站",
       "platform_class": "platform-bilibili",
-      "author": "爱打劫的警长",
-      "url": "http://www.bilibili.com/video/av117268344341880",
-      "time": "2026-09-17 22:41",
+      "author": "ODI备案企业服务露西",
+      "url": "http://www.bilibili.com/video/av115145556629927",
+      "time": "2026-09-18 10:10",
       "heat": 14,
       "discussions": "0",
-      "tags": [],
+      "tags": [
+        "ODI备案",
+        "境外投资备案"
+      ],
       "isHot": false,
-      "detail": "<p>CRS2.0各国推行你的境外投资需要做海外投资复盘，传统港美股券商之外的选择</p>"
+      "detail": "<p>-</p>"
+    },
+    {
+      "id": "f3ee0f8d8e93",
+      "title": "境外投资备案成硬性要求!",
+      "summary": "存量加密资产合规落地思路讲解",
+      "source": "B站",
+      "platform_class": "platform-bilibili",
+      "author": "Web3金融李律师",
+      "url": "http://www.bilibili.com/video/av117014270118678",
+      "time": "2026-09-18 10:10",
+      "heat": 14,
+      "discussions": "0",
+      "tags": [
+        "境外投资备案"
+      ],
+      "isHot": false,
+      "detail": "<p>存量加密资产合规落地思路讲解</p>"
     },
     {
       "id": "f7180e8b7888",
@@ -620,7 +640,7 @@
       "platform_class": "platform-bilibili",
       "author": "金兔国际聊跨境",
       "url": "http://www.bilibili.com/video/av1201545748",
-      "time": "2026-09-17 22:41",
+      "time": "2026-09-18 10:10",
       "heat": 13,
       "discussions": "0",
       "tags": [
@@ -637,29 +657,12 @@
       "platform_class": "platform-bilibili",
       "author": "上海登尼特企业服务",
       "url": "http://www.bilibili.com/video/av113282329352481",
-      "time": "2026-09-17 22:41",
+      "time": "2026-09-18 10:10",
       "heat": 12,
       "discussions": "0",
       "tags": [],
       "isHot": false,
       "detail": "<p>境外投资发改委备案详细流程</p>"
-    },
-    {
-      "id": "70a02e675fdd",
-      "title": "ODI境外投资备案，可以补办吗？",
-      "summary": "ODI境外投资备案，可以补办吗？",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "中港星",
-      "url": "http://www.bilibili.com/video/av114776491558182",
-      "time": "2026-09-17 22:41",
-      "heat": 10,
-      "discussions": "0",
-      "tags": [
-        "境外投资备案"
-      ],
-      "isHot": false,
-      "detail": "<p>ODI境外投资备案，可以补办吗？</p>"
     },
     {
       "id": "7eef82298602",
@@ -669,7 +672,7 @@
       "platform_class": "platform-bilibili",
       "author": "谊一咨询",
       "url": "http://www.bilibili.com/video/av117200966911485",
-      "time": "2026-09-17 22:41",
+      "time": "2026-09-18 10:10",
       "heat": 10,
       "discussions": "0",
       "tags": [
@@ -686,7 +689,7 @@
       "platform_class": "platform-bilibili",
       "author": "安必涉外信息咨询集团",
       "url": "http://www.bilibili.com/video/av117204976736253",
-      "time": "2026-09-17 22:41",
+      "time": "2026-09-18 10:10",
       "heat": 9,
       "discussions": "1",
       "tags": [
@@ -696,53 +699,36 @@
       "detail": "<p>一、安必涉外机构背景与业务\n安必涉外 2016 年成立，是根植中国、链接全球的跨境投资并购综合服务商。累计服务 3000 + 企业出海，年管理跨境投资规模超 30 亿美元。\n国内多城设立直营网点，海外布局印尼、泰国、越南、新加坡等分支机构，联动全球 150 多个国家本地资源。自研 FIM 全周期投资管理体系，集合法律、财税、合规、商务、金融多领域专家，不做单一咨询，提供投前‑投中‑投后全周期贴身服</p>"
     },
     {
-      "id": "539646de3586",
-      "title": "申请ODI境外投资备案需满足哪些条件",
-      "summary": "申请ODI境外投资备案需满足哪些条件",
+      "id": "5dcf67d8a0e1",
+      "title": "境外投资（ODI）备案常见问题解答（一）",
+      "summary": "境外投资（ODI）备案常见问题解答（一）",
       "source": "B站",
       "platform_class": "platform-bilibili",
-      "author": "海南众致财税",
-      "url": "http://www.bilibili.com/video/av115530090414234",
-      "time": "2026-09-17 22:41",
-      "heat": 8,
+      "author": "AC国际咨询",
+      "url": "http://www.bilibili.com/video/av113564170000152",
+      "time": "2026-09-18 10:10",
+      "heat": 7,
+      "discussions": "0",
+      "tags": [],
+      "isHot": false,
+      "detail": "<p>境外投资（ODI）备案常见问题解答（一）</p>"
+    },
+    {
+      "id": "be17bbb83d90",
+      "title": "境外投资备案ODI流程是什么？",
+      "summary": "境外投资备案ODI流程是什么？",
+      "source": "B站",
+      "platform_class": "platform-bilibili",
+      "author": "Aiweeeb3娜",
+      "url": "http://www.bilibili.com/video/av1101009139",
+      "time": "2026-09-18 10:10",
+      "heat": 6,
       "discussions": "0",
       "tags": [
         "境外投资备案"
       ],
       "isHot": false,
-      "detail": "<p>申请ODI境外投资备案需满足哪些条件</p>"
-    },
-    {
-      "id": "915fd375575b",
-      "title": "网红主播收入的税务规划与报送规则分析",
-      "summary": "网红主播收入的税务规划与报送规则分析#主播税务规划[话题]# #网红税务规划[话题]# #税务规划[话题]# #个人所得税[话题]# #香港税务规划[话题]# #中国税务[话题]# @我是流星农 平台显示收入9万元，银行只收到7万元，差的2万元是什么？\n这节课用教学案例，把收入、退款、平台费用与现金到账逐项对清：收入10万元、退款1万元、平台费用2万元，扣费后现金7万元。本例暂不计税款及未结算余额",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "我是流星农",
-      "url": "http://www.bilibili.com/video/av117222341152774",
-      "time": "2026-09-17 22:41",
-      "heat": 7,
-      "discussions": "0",
-      "tags": [],
-      "isHot": false,
-      "detail": "<p>网红主播收入的税务规划与报送规则分析#主播税务规划[话题]# #网红税务规划[话题]# #税务规划[话题]# #个人所得税[话题]# #香港税务规划[话题]# #中国税务[话题]# @我是流星农 平台显示收入9万元，银行只收到7万元，差的2万元是什么？\n这节课用教学案例，把收入、退款、平台费用与现金到账逐项对清：收入10万元、退款1万元、平台费用2万元，扣费后现金7万元。本例暂不计税款及未结算余额</p>"
-    },
-    {
-      "id": "a0491b9ad484",
-      "title": "2026境外投资必看！ODI备案全流程详解！#境外投资#ODI备案#odi备案#外贸#跨境电商",
-      "summary": "2026境外投资必看！ODI备案全流程详解！#境外投资#ODI备案#odi备案#外贸#跨境电商",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "nana注册香港公司",
-      "url": "http://www.bilibili.com/video/av116691241535644",
-      "time": "2026-09-17 22:41",
-      "heat": 5,
-      "discussions": "0",
-      "tags": [
-        "ODI备案"
-      ],
-      "isHot": false,
-      "detail": "<p>2026境外投资必看！ODI备案全流程详解！#境外投资#ODI备案#odi备案#外贸#跨境电商</p>"
+      "detail": "<p>境外投资备案ODI流程是什么？</p>"
     },
     {
       "id": "bd9c7e5aaa4b",
@@ -752,7 +738,7 @@
       "platform_class": "platform-bilibili",
       "author": "国际财税专家",
       "url": "http://www.bilibili.com/video/av117258999368677",
-      "time": "2026-09-17 22:41",
+      "time": "2026-09-18 10:10",
       "heat": 5,
       "discussions": "0",
       "tags": [
@@ -762,21 +748,21 @@
       "detail": "<p>ODI 是什么 → 发改委/商务/银行三道关</p>"
     },
     {
-      "id": "3aefef9cfb6f",
-      "title": "办理ODI境外投资备案的流程",
-      "summary": "办理ODI境外投资备案的流程",
+      "id": "a0491b9ad484",
+      "title": "2026境外投资必看！ODI备案全流程详解！#境外投资#ODI备案#odi备案#外贸#跨境电商",
+      "summary": "2026境外投资必看！ODI备案全流程详解！#境外投资#ODI备案#odi备案#外贸#跨境电商",
       "source": "B站",
       "platform_class": "platform-bilibili",
-      "author": "离岸骏捷商务",
-      "url": "http://www.bilibili.com/video/av115139365834657",
-      "time": "2026-09-17 22:41",
+      "author": "nana注册香港公司",
+      "url": "http://www.bilibili.com/video/av116691241535644",
+      "time": "2026-09-18 10:10",
       "heat": 5,
       "discussions": "0",
       "tags": [
-        "境外投资备案"
+        "ODI备案"
       ],
       "isHot": false,
-      "detail": "<p>办理ODI境外投资备案的流程</p>"
+      "detail": "<p>2026境外投资必看！ODI备案全流程详解！#境外投资#ODI备案#odi备案#外贸#跨境电商</p>"
     },
     {
       "id": "d10228b10617",
@@ -786,7 +772,7 @@
       "platform_class": "platform-bilibili",
       "author": "登尼特13306991109柳",
       "url": "http://www.bilibili.com/video/av117251768322651",
-      "time": "2026-09-17 22:41",
+      "time": "2026-09-18 10:10",
       "heat": 2,
       "discussions": "0",
       "tags": [
@@ -797,38 +783,6 @@
       "detail": "<p>很多老板打算注册海外公司，却不知道ODI备案，不做备案会面临资金出境受阻、外汇无法汇出、合规风险⚠️</p>"
     },
     {
-      "id": "38d917f49b65",
-      "title": "ODI境外投资备案的流程",
-      "summary": "ODI境外投资备案的流程",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "海南众致财税",
-      "url": "http://www.bilibili.com/video/av115556816522417",
-      "time": "2026-09-17 22:41",
-      "heat": 2,
-      "discussions": "0",
-      "tags": [
-        "境外投资备案"
-      ],
-      "isHot": false,
-      "detail": "<p>ODI境外投资备案的流程</p>"
-    },
-    {
-      "id": "fe3264f06d68",
-      "title": "ODI境外备案",
-      "summary": "ODI境外备案",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "中创侨智",
-      "url": "http://www.bilibili.com/video/av114260659150620",
-      "time": "2026-09-17 22:41",
-      "heat": 1,
-      "discussions": "0",
-      "tags": [],
-      "isHot": false,
-      "detail": "<p>ODI境外备案</p>"
-    },
-    {
       "id": "6e9c154a95f7",
       "title": "ODI境外投资备案，需要哪些流程和资料？#odi备案#境外投资备案#odi#出海",
       "summary": "ODI境外投资备案，需要哪些流程和资料？#odi备案#境外投资备案#odi#出海",
@@ -836,7 +790,7 @@
       "platform_class": "platform-bilibili",
       "author": "nana注册香港公司",
       "url": "http://www.bilibili.com/video/av117161255504689",
-      "time": "2026-09-17 22:41",
+      "time": "2026-09-18 10:10",
       "heat": 0,
       "discussions": "0",
       "tags": [
@@ -844,21 +798,6 @@
       ],
       "isHot": false,
       "detail": "<p>ODI境外投资备案，需要哪些流程和资料？#odi备案#境外投资备案#odi#出海</p>"
-    },
-    {
-      "id": "be616659aac8",
-      "title": "海外公司用个人投还是公司投？税务备案完全不一样#企业出海 #海外投资 #跨境财税#股权合规 #青岛出海老板#青岛财务公司",
-      "summary": "海外公司用个人投还是公司投？税务备案完全不一样#企业出海 #海外投资 #跨境财税#股权合规 #青岛出海老板#青岛财务公司",
-      "source": "B站",
-      "platform_class": "platform-bilibili",
-      "author": "杰诚财税时总",
-      "url": "http://www.bilibili.com/video/av117227424586566",
-      "time": "2026-09-17 22:41",
-      "heat": 0,
-      "discussions": "0",
-      "tags": [],
-      "isHot": false,
-      "detail": "<p>海外公司用个人投还是公司投？税务备案完全不一样#企业出海 #海外投资 #跨境财税#股权合规 #青岛出海老板#青岛财务公司</p>"
     }
   ]
 }
